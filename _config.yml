@@ -7,7 +7,7 @@ baseurl: ""
 url: ""
 twitter_username: hafusaorg
 github_username:  hafusaorg
-timezone: PST
+timezone: America/Los_Angeles
 collections:
   posts:
     title: Posts
