@@ -21,7 +21,7 @@ We welcome contributions and collaboration on this project. Please read our [con
 
 ## License and Authors
 
-[![Harmony Aikido Foundation logo](https://en.gravatar.com/userimage/10446332/7d63cce6d469f3b1242805cdf1f31ef1.png?size=16) Harmony Aikido Foundation](https://github.com/syncromatics)
+[![Harmony Aikido Foundation logo](https://secure.gravatar.com/avatar/b1a28c90471d2e4e19ca5c795eb2a2de?size=16) Harmony Aikido Foundation](https://github.com/syncromatics)
 
 [![license](https://img.shields.io/github/license/hafusaorg/hafusaorg.github.io.svg)](https://github.com/hafusaorg/hafusaorg.github.io/blob/master/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/hafusaorg/hafusaorg.github.io.svg)](https://github.com/hafusaorg/hafusaorg.github.io/graphs/contributors)
