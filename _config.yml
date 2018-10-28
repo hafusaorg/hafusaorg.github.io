@@ -1,12 +1,5 @@
 ---
 title: Harmony Aikido Foundation
-email: info@hafusa.org
-description: >-
-  TBD
-baseurl: ""
-url: ""
-twitter_username: hafusaorg
-github_username:  hafusaorg
 timezone: America/Los_Angeles
 collections:
   posts:
@@ -15,10 +8,13 @@ collections:
   uploads:
     title: Uploads
     output: true
-
-
-# Build settings
+email: info@hafusa.org
+description: TBD
+baseurl: ''
+url: ''
+twitter_username: hafusaorg
+github_username: hafusaorg
 markdown: kramdown
 theme: minima
 plugins:
-  - jekyll-feed
+- jekyll-feed
