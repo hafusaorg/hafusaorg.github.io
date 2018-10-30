@@ -1,5 +1,5 @@
 ---
-layout: default
+title: Empowering communities to stand up to violence
 hero:
   style: dark
   images:
@@ -16,6 +16,7 @@ hero:
 social:
   image: "/uploads/logo.png"
   description: Empowering communities to stand up to violence
+layout: default
 ---
 
 # This is h1
