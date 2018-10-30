@@ -1,0 +1,31 @@
+<html>
+
+<head>
+  <title>{{ page.title }} - {{ site.title }}</title>
+  <link rel="stylesheet" href="/assets/master.css">
+</head>
+
+<body>
+  <main>
+    <article>
+      <header>
+        <h2>{{ page.hero.heading }}</h2>
+        <h5>{{ page.hero.subheading }}</h5>
+        {% for call_to_action in page.hero.calls_to_action %}
+          <a href="#" class="{{ call_to_action.type }}">
+            {{ call_to_action.text }}
+          </a>
+        {% endfor %}
+      </header>
+      {{ content }}
+    </article>
+  </main>
+  <header>
+    Header TBD
+  </header>
+  <footer>
+    Footer TBD
+  </footer>
+</body>
+
+</html>
