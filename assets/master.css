@@ -80,3 +80,7 @@ sup {
 sub {
   bottom: -0.25em;
 }
+
+article section {
+  margin: 0 24px;
+}

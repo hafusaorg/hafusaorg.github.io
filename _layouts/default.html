@@ -1,27 +1,45 @@
 <html>
 
 <head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta property="og:url" content="{{page.url}}" />
+  <meta property="og:type" content="article" />
+  <meta property="og:title" content="{{ page.title }}" />
+  <meta property="og:description" content="{{ page.social.description | markdownify | strip_html | trim }}" />
+  <meta property="og:image" content="{{ page.social.image }}" />
+  <meta name="twitter:card" content="summary">
+
   <title>{{ page.title }} - {{ site.title }}</title>
   <link rel="stylesheet" href="/assets/master.css">
+  <link rel="stylesheet" href="/assets/header.css">
+  <link rel="stylesheet" href="/assets/default.css">
 </head>
 
 <body>
   <main>
     <article>
-      <header>
-        <h2>{{ page.hero.heading }}</h2>
-        <h5>{{ page.hero.subheading }}</h5>
+      <header class="hero {{ page.hero.style }}">
+        <div class="text">
+          <h1>{{ page.hero.heading }}</h2>
+            <h2>{{ page.hero.subheading }}</h5>
+        </div>
         {% for call_to_action in page.hero.calls_to_action %}
-          <a href="#" class="{{ call_to_action.type }}">
-            {{ call_to_action.text }}
-          </a>
+        <a href="#" class="call-to-action {{ call_to_action.type }}">
+          {{ call_to_action.text }}
+        </a>
         {% endfor %}
+        <img src="{{ page.hero.images.mobile }}" alt="Hero" class="mobile">
+        <img src="{{ page.hero.images.desktop }}" alt="Hero" class="desktop">
       </header>
-      {{ content }}
+      <section>
+        {{ content }}
+      </section>
     </article>
   </main>
-  <header>
-    Header TBD
+  <header class="main">
+    <a href="#" class="menu">
+      Menu
+    </a>
   </header>
   <footer>
     Footer TBD
