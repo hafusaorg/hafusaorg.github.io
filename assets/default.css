@@ -12,7 +12,7 @@
 .hero .text {
   position: absolute;
   bottom: 0;
-  margin: 0 48px 64px;
+  margin: 0 39px 64px 48px;
 }
 
 .hero h1 {
@@ -21,7 +21,6 @@
   font-weight: bold;
   line-height: 40px;
   font-size: 29px;
-  
   color: #F9F9F9;
 }
 
@@ -32,7 +31,6 @@
   line-height: 19px;
   font-size: 14px;
   letter-spacing: 0.05em;
-  
   color: #F9F9F9;
 }
 
@@ -40,7 +38,7 @@
   display: none;
 }
 
-.hero > * {
+.hero>* {
   z-index: 1;
 }
 
@@ -61,8 +59,36 @@
   .hero img.mobile {
     display: none;
   }
-
   .hero img.desktop {
+    display: initial;
+  }
+}
+
+.section.you-are-powerful {
+  background-color: #E96824;
+}
+
+.section.you-are-powerful * {
+  color: #F9F9F9;
+}
+
+.section.you-are-powerful img {
+  display: none;
+}
+
+@media screen and (min-width: 768px) {
+  .section.you-are-powerful img {
+    display: initial;
+  }    
+}
+
+.counter {
+  display: block;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 768px) {
+  .counter {
     display: initial;
   }
 }

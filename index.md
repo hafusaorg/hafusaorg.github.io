@@ -19,9 +19,46 @@ social:
 layout: default
 ---
 
-# This is h1
+THE VISION
+{: .figcaption}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vestibulum mattis ullamcorper velit sed. Massa tincidunt nunc pulvinar sapien. Tristique risus nec feugiat in fermentum posuere urna. Sociis natoque penatibus et magnis. Faucibus turpis in eu mi. Facilisis magna etiam tempor orci eu lobortis elementum nibh. Ut morbi tincidunt augue interdum. Fermentum dui faucibus in ornare quam viverra orci sagittis eu. Sollicitudin ac orci phasellus egestas. Urna nunc id cursus metus aliquam eleifend mi in. Risus commodo viverra maecenas accumsan lacus vel facilisis volutpat. In fermentum posuere urna nec. Donec et odio pellentesque diam volutpat commodo. Lectus arcu bibendum at varius vel pharetra vel turpis nunc. A diam sollicitudin tempor id eu nisl. Mauris cursus mattis molestie a iaculis at erat pellentesque. In fermentum et sollicitudin ac. Volutpat commodo sed egestas egestas fringilla phasellus faucibus.
+## We see a future where violence no longer tears the fabric of our communities.
+
+Harmony Aikido Foundation takes a preventative approach towards violence by equipping people to defend themselves and their loved ones against physical attacks. We partner with local community groups to provide high-quality self-defense and awareness training for community members of all ages. 
+
+Organizations we have partnered with to offer self-defense training
+{: .center}
+
+* ![Alive and Well Women](/uploads/org-alive-and-well.svg)
+* ![The Salvation Army](/uploads/org-salvation-army.svg)
+* ![Los Angeles County Supervisor Janice Hahn, Fourth District](/uploads/org-janice-hahn.svg)
+* ![YWCA Glendale: Eliminating Racism, Empowering Women](/uploads/org-glendale-ywca.svg)
+{: .blocks}
+
+> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/04HIRa8TnNA?controls=0" frameborder="0" allowfullscreen></iframe>
+{: .video}
+
+Follow us to hear of our upcoming events
+{: .center}
+
+* [![Youtube](/uploads/icon-youtube.svg)](https://go.hafusa.org/youtube-hafusaorg)
+* [![Instagram](/uploads/icon-instagram.svg)](https://www.instagram.com/hafusaorg/)
+* [![Facebook](/uploads/icon-facebook.svg)](https://www.facebook.com/hafusaorg)
+{: .blocks}
+
+
+> OUR CAMPAIGN
+> {: .figcaption}
+>
+> ![You Are Powerful logo](/uploads/hero-campaign.png)
+> # You Are Powerful
+> We are proud to stand with women as they defend themselves against acts of violence.  We are on a mission to provide all-inclusive self-defense training to one thousand women and girls.
+>
+> ![405](/uploads/counter.svg){: .counter style="vertical-align: middle"}
+> women and girls taught so far
+>
+> [Learn more ![](/uploads/arrow.svg)](/you-are-powerful)
+{: .section.you-are-powerful}
 
 ## This is h2
 
