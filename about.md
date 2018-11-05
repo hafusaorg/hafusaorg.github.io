@@ -21,9 +21,9 @@ OUR IMPACT
 
 <section class="numbers">
 * XX
-{: .figure}
+  {: .figure}
   * Volunteers
-  {: .caption}
+    {: .caption}
 </figure>
 <figure>
 XXX
