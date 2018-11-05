@@ -24,15 +24,15 @@ OUR IMPACT
   {: .figure}
   * Volunteers
     {: .caption}
-</figure>
-<figure>
-XXX
-<figcaption>People trained</figcaption>
-</figure>
-<figure>
-XX
-<figcaption>Organizations served</figcaption>
-</figure>
+* XXX
+  {: .figure}
+  * People trained
+    {: .caption}
+* XX
+  {: .figure}
+  * Organizations served
+    {: .caption}
+{: .blocks}
 </section>
 
 <section class="hero">
