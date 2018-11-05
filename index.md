@@ -1,28 +1,37 @@
 ---
 title: Empowering communities to stand up to violence
-hero:
-  style: dark
-  images:
-    mobile: "/uploads/hero-landing-mobile.png"
-    desktop: "/uploads/hero-landing.png"
-  heading: Empowering communities to stand up to violence
-  subheading: We provide high quality self-defense and awareness training to local
-    communities in the Los Angeles County and the greater Los Angeles area.
-  calls_to_action:
-  - text: Learn more
-    type: button
-  - text: Attend one of our classes
-    type: plain
 social:
   image: "/uploads/logo.png"
   description: Empowering communities to stand up to violence
 layout: default
+css: |
+  .hero.landing-page {
+    background-image: url(/uploads/hero-landing-mobile.png);
+  }
+
+  @media screen and (min-width: 768px) {
+    .hero.landing-page {
+      background-image: url(/uploads/hero-landing.png);
+    }
+  }
+
+  .hero.you-are-powerful {
+    background-image: url(/uploads/hero-campaign.png);
+  }
 ---
+
+<section class="hero dark bottom landing-page scroll-for-more">
+# Empowering communities to stand up to violence
+
+We provide self-defense training to local communities in the Los Angeles County and the greater Los Angeles area.
+
+[See how we empower communities](/about)
+</section>
 
 THE VISION
 {: .figcaption}
 
-## We see a future where violence no longer tears the fabric of our communities.
+# We see a future where violence no longer tears the fabric of our communities.
 
 Harmony Aikido Foundation takes a preventative approach towards violence by equipping people to defend themselves and their loved ones against physical attacks. We partner with local community groups to provide high-quality self-defense and awareness training for community members of all ages. 
 
@@ -47,32 +56,91 @@ Follow us to hear of our upcoming events
 {: .blocks}
 
 
-> OUR CAMPAIGN
-> {: .figcaption}
->
-> ![You Are Powerful logo](/uploads/hero-campaign.png)
-> # You Are Powerful
-> We are proud to stand with women as they defend themselves against acts of violence.  We are on a mission to provide all-inclusive self-defense training to one thousand women and girls.
->
-> ![405](/uploads/counter.svg){: .counter style="vertical-align: middle"}
-> women and girls taught so far
->
-> [Learn more ![](/uploads/arrow.svg)](/you-are-powerful)
+<section class="hero you-are-powerful">
+OUR CAMPAIGN
+{: .figcaption}
+
+# You Are Powerful
+We are proud to stand with women as they defend themselves against acts of violence.  We are on a mission to provide all-inclusive self-defense training to one thousand women and girls.
+
+![405](/uploads/counter.svg){: .counter style="vertical-align: middle"}
+women and girls taught so far
+
+[Learn more ![](/uploads/arrow.svg)](/you-are-powerful)
 {: .section.you-are-powerful}
+</section>
 
-## This is h2
+WHY TRAIN WITH US?
+{: .figcaption}
 
-Id aliquet risus feugiat in ante. Vulputate mi sit amet mauris. Tincidunt id aliquet risus feugiat in ante metus. Placerat in egestas erat imperdiet sed. Sit amet massa vitae tortor condimentum lacinia quis vel. Risus ultricies tristique nulla aliquet. Adipiscing enim eu turpis egestas pretium. Gravida quis blandit turpis cursus in hac habitasse. Eget dolor morbi non arcu. Commodo ullamcorper a lacus vestibulum sed arcu non odio. Est pellentesque elit ullamcorper dignissim cras tincidunt lobortis feugiat vivamus. Pharetra pharetra massa massa ultricies mi. Blandit libero volutpat sed cras ornare arcu dui vivamus. Fermentum et sollicitudin ac orci phasellus egestas.
+# We have the expertise.
 
+Our instructors are veterans in teaching self-defense.  The high caliber of their expertise enables Harmony Aikido Foundation to tailor our self-defense training sessions to participants’ specific skill levels and needs.  [Learn more](/classes)
 
-### This is h3
+Some of the trainings we offer
+{: .center}
 
-Dolor sit amet consectetur adipiscing. Phasellus egestas tellus rutrum tellus pellentesque eu tincidunt tortor. Ultrices in iaculis nunc sed augue lacus viverra. Mattis aliquam faucibus purus in massa tempor nec feugiat. Auctor eu augue ut lectus arcu bibendum at varius. Feugiat in ante metus dictum at. Nibh tortor id aliquet lectus. Leo vel fringilla est ullamcorper eget nulla facilisi etiam dignissim. Cursus sit amet dictum sit amet. Neque ornare aenean euismod elementum nisi quis eleifend quam. Imperdiet proin fermentum leo vel orci porta non.
+* ![woman teaching class](/uploads/classes-1.png)
+  Awareness training
+* ![female instructor teaching girl](/uploads/classes-2.png)
+  Escape and evasion techniques
+* ![woman learning blocking from female instructor](/uploads/classes-3.png)
+  Y.E.S (yell, escape, stun) method
+{: .blocks}
 
-#### This is h4
+## Want to partner with us to provide self-defense training for your community?
 
-Vitae purus faucibus ornare suspendisse. Nulla facilisi etiam dignissim diam. Condimentum vitae sapien pellentesque habitant morbi tristique. Amet mattis vulputate enim nulla aliquet porttitor. Massa tincidunt nunc pulvinar sapien et ligula. Cursus euismod quis viverra nibh cras. Congue eu consequat ac felis donec et odio pellentesque diam. Lorem ipsum dolor sit amet consectetur adipiscing elit ut aliquam. Donec ac odio tempor orci dapibus. Id eu nisl nunc mi ipsum. Orci phasellus egestas tellus rutrum tellus pellentesque eu tincidunt. Placerat in egestas erat imperdiet.
+[Let’s chat](/contact)
+{: .call-to-action}
 
-##### This is h5
+<section class="hero">
+# Coming Soon: Classes
 
-Nunc faucibus a pellentesque sit amet porttitor. Eu nisl nunc mi ipsum faucibus vitae aliquet nec. Dignissim diam quis enim lobortis scelerisque. Suscipit tellus mauris a diam maecenas. Ac felis donec et odio pellentesque diam volutpat. Sit amet purus gravida quis blandit. Vitae semper quis lectus nulla at volutpat diam ut. Quam elementum pulvinar etiam non quam lacus suspendisse faucibus interdum. Sed viverra tellus in hac habitasse platea dictumst vestibulum. Sed id semper risus in. Proin nibh nisl condimentum id venenatis a condimentum vitae sapien. Fames ac turpis egestas maecenas pharetra convallis posuere. Scelerisque varius morbi enim nunc. Erat velit scelerisque in dictum non consectetur. Massa sapien faucibus et molestie ac feugiat sed. Consequat mauris nunc congue nisi vitae suscipit tellus. Ultricies mi eget mauris pharetra et. Quam adipiscing vitae proin sagittis nisl rhoncus mattis. Eu augue ut lectus arcu. Diam quam nulla porttitor massa id neque aliquam vestibulum.
+TBD
+
+Be the first to sign up for our classes
+{: .center}
+
+[Get notified](/contact)
+{: .call-to-action}
+</section>
+
+# All-inclusive training
+
+Taking our self-defense lessons will increase your awareness and confidence in dangerous situations, as well as in your daily life.  Our workshops are designed for participants of all ages, no prior experience is necessary. 
+
+[View community events](/community-events)
+
+> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/04HIRa8TnNA?controls=0" frameborder="0" allowfullscreen></iframe>
+{: .video}
+
+* > “I had a lot of fun in the workshop. It made me actually feel powerful.”
+  * Jane Doe
+  * Organization name
+* > “I had a lot of fun in the workshop. It made me actually feel powerful.”
+  * Jane Doe
+  * Organization name
+* > “I had a lot of fun in the workshop. It made me actually feel powerful.”
+  * Jane Doe
+  * Organization name
+{: .quotes}
+
+<section class="subscribe">
+  Subscribe to get our newsletter
+  TBD
+</section>
+
+<section class="hero dark">
+MAKE AN IMPACT
+{: .figcaption}
+
+# Your support is meaningful.
+
+Help us continue our work in meeting the need for high-quality self-defense training for the local communities. Your donation will also help cover our operation costs as a nonprofit organization that empowers communities to stand up to violence.
+
+Your generosity keeps us going.
+{: .center}
+
+[DONATE TO US](/contact)
+{: .call-to-action}
+</section>
