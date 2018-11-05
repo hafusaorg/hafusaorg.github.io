@@ -15,6 +15,39 @@ url: ''
 twitter_username: hafusaorg
 github_username: hafusaorg
 markdown: kramdown
+kramdown:
+  parse_block_html: true
 theme: minima
 plugins:
 - jekyll-feed
+navigation:
+  main:
+    - label: About
+      url: /about
+      items:
+        - label: What We Do
+          url: /about#what-we-do
+        - label: Our Story
+          url: /about#our-story
+    - label: Classes
+      url: /classes
+    - label: Resources
+      url: /resources
+    - label: Community Programs
+      url: /community-programs
+    - label: Contact
+      url: /contact
+  footer:
+    - label: About HAF
+      url: /about
+      items:
+        - label: What We Do
+          url: /about#what-we-do
+        - label: Our Story
+          url: /about#our-story
+    - label: Community Programs
+      url: /community-programs
+    - label: Attend a class
+      url: /classes
+    - label: Resources
+      url: /resources

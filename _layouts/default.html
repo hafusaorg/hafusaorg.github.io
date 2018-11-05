@@ -1,7 +1,7 @@
 <html>
 
 <head>
-  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <meta property="og:url" content="{{page.url}}" />
   <meta property="og:type" content="article" />
   <meta property="og:title" content="{{ page.title }}" />
@@ -13,37 +13,107 @@
   <link rel="stylesheet" href="/assets/master.css">
   <link rel="stylesheet" href="/assets/header.css">
   <link rel="stylesheet" href="/assets/default.css">
+  {% if page.css %}
+    <style type="text/css">
+      {{ page.css }}
+    </style>
+  {% endif %}
 </head>
 
 <body>
   <main>
     <article>
-      <header class="hero {{ page.hero.style }}">
-        <div class="text">
-          <h1>{{ page.hero.heading }}</h2>
-            <h2>{{ page.hero.subheading }}</h5>
-        </div>
-        {% for call_to_action in page.hero.calls_to_action %}
-        <a href="#" class="call-to-action {{ call_to_action.type }}">
-          {{ call_to_action.text }}
-        </a>
-        {% endfor %}
-        <img src="{{ page.hero.images.mobile }}" alt="Hero" class="mobile">
-        <img src="{{ page.hero.images.desktop }}" alt="Hero" class="desktop">
-      </header>
-      <section>
-        {{ content }}
-      </section>
+      {{ content }}
     </article>
+    <!-- <pre>{{ site | inspect }}</pre> -->
   </main>
-  <header class="main">
-    <a href="#" class="menu">
-      Menu
+  <nav id="main-navigation">
+    <a href="/" class="logo">
+      <img src="/uploads/logo.png" alt="Harmony Aikido Foundation home">
     </a>
-  </header>
+    <ul>
+      {% for item in site.navigation.main %}
+        <li>
+          <a href="{{ item.url }}">
+            {{ item.label }}
+          </a>
+          {% if item.items %}
+            <ul>
+              {% for subitem in item.items %}
+                <li>
+                  <a href="{{ subitem.url }}">
+                    {{ subitem.label }}
+                  </a>
+                </li>        
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </li>
+      {% endfor %}
+    </ul>
+    <div class="corner">
+      <a href="#" class="open" data-for="main-navigation">
+          <img src="/uploads/menu.svg" alt="Menu">
+      </a>
+      <a href="#" class="close" data-for="main-navigation">
+        <img src="/uploads/close.svg" alt="Harmony Aikido Foundation home">
+      </a>
+    </div>
+  </nav>
   <footer>
-    Footer TBD
+    <section>
+      <div class="left">
+        <img src="/uploads/logo-footer.png" alt="Harmony Aikido Foundation">
+      </div>
+      <div class="right">
+        <div class="social">
+          <a href="https://go.hafusa.org/youtube-hafusaorg" target="_blank">
+            <img src="/uploads/icon-youtube.svg" alt="Youtube">
+          </a>
+          <a href="https://www.instagram.com/hafusaorg" target="_blank">
+            <img src="/uploads/icon-instagram.svg" alt="Instagram">
+          </a>
+          <a href="https://www.facebook.com/hafusaorg" target="_blank">
+            <img src="/uploads/icon-facebook.svg" alt="Facebook">
+          </a>
+        </div>
+        <p>
+            Have a question? Email us at <a href="mailto:info@hafusa.org">info@hafusa.org</a>
+        </p>
+      </div>
+    </section>
+    <section>
+      <ul>
+        {% for item in site.navigation.footer %}
+          <li>
+            <a href="{{ item.url }}">
+              {{ item.label }}
+            </a>
+            {% if item.items %}
+              <ul>
+                {% for subitem in item.items %}
+                  <li>
+                    <a href="{{ subitem.url }}">
+                      {{ subitem.label }}
+                    </a>
+                  </li>        
+                {% endfor %}
+              </ul>
+            {% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+    <section class="center">
+       <p>
+         &copy; 2018  All Rights Reserved  Harmony Aikido Foundation
+        </p>
+        <p>
+          Website designed by <a href="#">Rachel Atmadja</a> & developed by <a href="#">Daniel James</a>
+        </p>
+    </section>
   </footer>
+  <script type="text/javascript" src="/assets/main.js"></script>
 </body>
 
 </html>

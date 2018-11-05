@@ -1,23 +1,92 @@
-header.main {
+#main-navigation {
   position: fixed;
   top: 0;
-  left: 0;
-  right: 0;
-  height: 136px;
-  background: url(/uploads/logo.png);
-  background-size: 112px;
-  background-position: bottom;
-  background-repeat: no-repeat;
+  width: 100vw;
+  background-color: rgba(0,0,0,0.3);
+  padding: 24px 48px;
 }
 
-header.main a.menu {
+.collapse-main-navigation #main-navigation {
+  
+}
+
+#main-navigation .logo {
+  display: block;
+  text-align: center;
+  margin: 0 auto;
+}
+
+#main-navigation .logo, #main-navigation .logo img, .show-main-navigation #main-navigation .logo, .show-main-navigation #main-navigation .logo img, .show-main-navigation.collapse-main-navigation #main-navigation .logo, .show-main-navigation.collapse-main-navigation #main-navigation .logo img {
+  width: 112px;
+  height: 112px;
+}
+
+.collapse-main-navigation #main-navigation .logo, .collapse-main-navigation #main-navigation .logo img {
+  width: 24px;
+  height: 24px;
+}
+
+#main-navigation .corner {
   position: absolute;
   top: 24px;
   left: 24px;
-  font-size: 0;
-  background: url(/uploads/menu.svg);
-  background-position: center;
-  background-repeat: no-repeat;
-  width: 40px;
-  height: 26px;
+  width: 30px;
+  height: 30px;
+}
+
+#main-navigation .close {
+  display: none;
+}
+
+#main-navigation>ul {
+  margin-top: 96px !important;
+}
+
+#main-navigation ul {
+  display: none;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+#main-navigation li>ul {
+  margin-left: 40px;
+}
+
+#main-navigation li a {
+  font-family: Lato;
+  font-style: normal;
+  font-weight: bold;
+  line-height: 26px;
+  font-size: 19px;
+  letter-spacing: 0.05em;
+  display: inline-block;
+  width: 100%;
+  padding: 11px 0;
+  color: #F9F9F9;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+
+.show-main-navigation #main-navigation {
+  display: block;
+  height: 100vh;
+  overflow: auto;
+  background: rgba(0, 0, 0, 0.3);
+}
+
+.show-main-navigation #main-navigation .open {
+  display: none;
+}
+
+.show-main-navigation #main-navigation .close {
+  display: initial;
+}
+
+.show-main-navigation #main-navigation ul {
+  display: block;
+}
+
+.show-main-navigation main {
+  filter: blur(40px);
 }
