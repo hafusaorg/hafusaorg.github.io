@@ -1,7 +1,6 @@
 ---
 title: About
 permalink: "/about/"
-published: false
 css: |-
   .hero.testimonials {
     background-image: url(/uploads/hero-about-testimonials.png);
