@@ -20,9 +20,10 @@ OUR IMPACT
 {: .figcaption}
 
 <section class="numbers">
-<figure>
-XX
-<figcaption>Volunteers</figcaption>
+* XX
+{: .figure}
+  * Volunteers
+  {: .caption}
 </figure>
 <figure>
 XXX
