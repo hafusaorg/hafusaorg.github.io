@@ -4,15 +4,27 @@ permalink: "/about/"
 layout: page
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+WHAT WE DO
+{: .figcaption}
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+# We provide self-defense training to local communities in the Los Angeles County and the greater Los Angeles area.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+We teach practical awareness and self-defense skills to participants of all ages and from all walks of life. No prior experience is necessary—just an open mind, a humble spirit, and a wilingness to learn.
 
+OUR IMPACT
+{: .figcaption}
 
-[jekyll-organization]: https://github.com/jekyll
+<section class="numbers">
+<figure>
+XX
+<figcaption>Volunteers</figcaption>
+</figure>
+<figure>
+XXX
+<figcaption>People trained</figcaption>
+</figure>
+<figure>
+XX
+<figcaption>Organizations served</figcaption>
+</figure>
+</section>
