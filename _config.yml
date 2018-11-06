@@ -10,8 +10,8 @@ collections:
     output: true
 email: info@hafusa.org
 description: TBD
-baseurl: ''
-url: ''
+baseurl: 
+url: 
 twitter_username: hafusaorg
 github_username: hafusaorg
 markdown: kramdown
@@ -25,7 +25,7 @@ navigation:
   - label: About
     url: "/about"
     items:
-    - label: What We Do
+    - label: Things We Do
       url: "/about#what-we-do"
     - label: Our Story
       url: "/about#our-story"
