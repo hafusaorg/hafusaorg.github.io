@@ -1,11 +1,9 @@
 @import url('https://fonts.googleapis.com/css?family=Crimson+Text|Lato|Montserrat');
-
 :root {
   /* Global variables */
   --normal-text-color: #333333;
   --inverse-text-color: #F9F9F9;
   --sans-serif-font-family: Lato, sans-serif;
-
   /* Responsive variables */
   --h1-font-size: 24px;
   --h1-padding-bottom: 40px;
@@ -34,6 +32,7 @@
 }
 
 /* Styles */
+
 * {
   box-sizing: border-box;
 }
@@ -61,6 +60,10 @@ p {
   line-height: 1.5em;
   margin: 0;
   padding: 0 0 var(--p-padding-bottom);
+}
+
+figure {
+  margin: 0;
 }
 
 .figcaption {

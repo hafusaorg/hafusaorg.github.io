@@ -27,6 +27,17 @@ css: |
   .blocks.organizations img {
     width: var(--organization-width);
   }
+
+  .hero.you-are-powerful {
+    background-color: #C75300;
+    padding-left: var(--horizontal-min-margin);
+    padding-right: var(--horizontal-min-margin);
+  }
+
+  .hero.you-are-powerful img {
+    min-width: 288px;
+    max-width: 100%;
+  }
 ---
 
 <section class="hero">
@@ -70,9 +81,14 @@ Follow us to hear of our upcoming events
 OUR CAMPAIGN
 {: .figcaption}
 
+<section class="columns">
+<figure>
+!["You Are Powerful" painting of female Aikidoist in impressionist style](/uploads/you-are-powerful-art.png)
+</figure>
+<section>
 # You Are Powerful
 
-We are proud to stand with women as they defend themselves against acts of violence.  Our campaign mission to provide all-inclusive self-defense training to one thousand women and girls.  
+We are proud to stand with women as they defend themselves against acts of violence.  Our campaign mission to provide all-inclusive self-defense training to one thousand women and girls. 
 
 * 0
 * 4
@@ -83,6 +99,8 @@ We are proud to stand with women as they defend themselves against acts of viole
 women and girls taught so far
 
 [Learn more](/you-are-powerful)
+</section>
+</section>
 </section>
 
 WHY TRAIN WITH US?

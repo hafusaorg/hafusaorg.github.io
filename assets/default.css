@@ -1,13 +1,14 @@
 :root {
   /* Global variables */
+  --hero-margin-bottom: 96px;
   /* Responsive variables */
   --hero-min-height: 533px;
-  --hero-margin-bottom: 40px;
-  --hero-margin-bottom: 96px;
-  --hero-more-margin-bottom: 7px;
-  --hero-more-padding-bottom: 24px;
   --horizontal-min-margin: 16px;
   --horizontal-margin: 0px;
+  --hero-more-margin-bottom: 7px;
+  --hero-more-padding-bottom: 24px;
+  --hero-h1-font-size: 38px;
+  --hero-h1-text-align: center;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1279px) {
@@ -17,7 +18,9 @@
     --horizontal-margin: 64px;
     --hero-more-margin-bottom: 80px;
     --hero-more-padding-bottom: 24px;
-    }
+    --hero-h1-font-size: 47px;
+    --hero-h1-text-align: left;
+  }
 }
 
 @media screen and (min-width: 1280px) {
@@ -27,6 +30,8 @@
     --horizontal-margin: 188px;
     --hero-more-margin-bottom: 80px;
     --hero-more-padding-bottom: 24px;
+    --hero-h1-font-size: 76px;
+    --hero-h1-text-align: left;
   }
 }
 
@@ -41,14 +46,36 @@ main>article {
 
 .hero {
   display: flex;
+  flex-direction: column;
   justify-content: flex-end;
   margin: 0 calc(-1 * var(--standard-margin)) var(--hero-margin-bottom);
-  padding: 0 var(--standard-margin);
-  flex-direction: column;
+  padding: 0 var(--standard-margin) var(--p-padding-bottom);
+  background-color: #000000;
+}
+
+.hero, .hero a {
+  color: var(--inverse-text-color);
 }
 
 .hero h1, .hero p {
   padding: 0 0 16px;
+}
+
+.hero h1 {
+  font-size: var(--hero-h1-font-size);
+  text-align: var(--hero-h1-text-align);
+}
+
+.hero .figcaption {
+  width: fit-content;
+  margin: 40px auto;
+  border-bottom: solid 2px var(--inverse-text-color);
+}
+
+@media screen and (min-width: 768px) {
+  .hero .figcaption {
+    margin: 40px auto 56px;
+  }
 }
 
 .hero .more {
@@ -62,11 +89,13 @@ main>article {
 
 .hero:first-child {
   min-height: var(--hero-min-height);
-  background-color: #000000;
   background-image: var(--hero-mobile-background-image);
   background-position: var(--hero-mobile-background-position, center);
   background-repeat: no-repeat;
-  color: var(--inverse-text-color);
+}
+
+.hero:first-child h1 {
+  font-size: var(--h1-font-size);
 }
 
 @media screen and (min-width: 768px) {
@@ -104,4 +133,18 @@ ul.social-buttons {
 
 ul.social-buttons li {
   margin: 0 12px 80px;
+}
+
+.columns {
+  display: flex;
+  flex-direction: column;
+}
+
+@media screen and (min-width: 768px) {
+  .columns {
+    flex-direction: row;
+  }
+  .columns figure {
+    margin-right: 40px;
+  }
 }
