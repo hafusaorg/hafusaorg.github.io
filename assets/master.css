@@ -1,37 +1,87 @@
 @import url('https://fonts.googleapis.com/css?family=Crimson+Text|Lato|Montserrat');
+
+:root {
+  /* Global variables */
+  --normal-text-color: #333333;
+  --inverse-text-color: #F9F9F9;
+  --sans-serif-font-family: Lato, sans-serif;
+
+  /* Responsive variables */
+  --h1-font-size: 24px;
+  --h1-padding-bottom: 40px;
+  --p-font-size: 16px;
+  --p-padding-bottom: 80px;
+  --figcaption-font-size: 12px;
+  --figcaption-padding-bottom: 19px;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  :root {
+    --h1-font-size: 36px;
+    --p-font-size: 18px;
+    --figcaption-font-size: 16px;
+    --figcaption-padding-bottom: 17px;
+  }
+}
+
+@media screen and (min-width: 1280px) {
+  :root {
+    --h1-font-size: 47px;
+    --p-font-size: 20px;
+    --figcaption-font-size: 16px;
+    --figcaption-padding-bottom: 17px;
+  }
+}
+
+/* Styles */
 * {
   box-sizing: border-box;
 }
 
 html, body {
+  font-family: var(--sans-serif-font-family);
+  font-style: normal;
   margin: 0;
 }
 
 html, body, a {
-  color: #333333;
-}
-
-h1, h2, h3, h4, h5, h6, p {
-  font-family: Lato, sans-serif;
-  font-style: normal;
-  margin: 0.25em;
-}
-
-.dark, .dark a {
-  color: #F9F9F9;
-}
-
-h1, h2, h3, h4, h5, h6 {
-  font-weight: bold;
+  color: var(--normal-text-color);
 }
 
 h1 {
-  line-height: 40px;
-  font-size: 29px;
+  font-weight: 600;
+  font-size: var(--h1-font-size);
+  line-height: 1.5em;
+  margin: 0;
+  padding: 0 0 var(--h1-padding-bottom);
 }
 
 p {
-  line-height: 22px;
-  font-size: 16px;
-  letter-spacing: 0.02em;
+  font-size: var(--p-font-size);
+  line-height: 1.5em;
+  margin: 0;
+  padding: 0 0 var(--p-padding-bottom);
+}
+
+.figcaption {
+  font-size: var(--figcaption-font-size);
+  margin: 0;
+  padding: var(--figcaption-padding-bottom) 0;
+}
+
+.center {
+  text-align: center;
+}
+
+ul.blocks {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+ul.blocks li {
+  margin: 0;
 }
