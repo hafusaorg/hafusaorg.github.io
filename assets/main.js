@@ -24,4 +24,6 @@ if (firstHero) {
   window.addEventListener('scroll', scrollHandler);
   window.addEventListener('wheel', scrollHandler);
   window.addEventListener('resize', resizeHandler);
+} else {
+  document.body.classList.add("fixed-main-navigation");
 }
