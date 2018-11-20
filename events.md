@@ -1,6 +1,5 @@
 ---
-title: About
-layout: default
+title: Community Events
 show_subscribe_form: true
 css: |-
   :root {
@@ -9,6 +8,7 @@ css: |-
     --hero-desktop-background-position: center;
     --hero-desktop-background-image: url("/uploads/hero-community.png");
   }
+layout: default
 ---
 
 <section class="hero">
