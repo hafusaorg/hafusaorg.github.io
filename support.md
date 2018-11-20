@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Support
+layout: default
 show_subscribe_form: true
 css: |-
   :root {

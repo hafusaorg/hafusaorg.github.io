@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Resources
+layout: default
 show_subscribe_form: true
 css: |-
   :root {
