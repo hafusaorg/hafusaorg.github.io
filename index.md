@@ -1,9 +1,9 @@
 ---
+layout: default
 title: Empowering communities to stand up to violence
 social:
   image: "/uploads/logo.png"
   description: Empowering communities to stand up to violence
-layout: default
 show_subscribe_form: true
 css: |
   :root {

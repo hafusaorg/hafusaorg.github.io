@@ -1,13 +1,19 @@
 ---
+layout: default
 title: About
-permalink: "/about/"
+show_subscribe_form: true
 css: |-
-  .hero.testimonials {
-    background-image: url(/uploads/hero-about-testimonials.png);
+  :root {
+    --hero-mobile-background-position: left;
+    --hero-mobile-background-image: url("/uploads/hero-about-mobile.png");
+    --hero-desktop-background-position: center;
+    --hero-desktop-background-image: url("/uploads/hero-about.png");
   }
-layout: page
 ---
 
+<section class="hero">
+TBD
+</section>
 WHAT WE DO
 {: .figcaption}
 
