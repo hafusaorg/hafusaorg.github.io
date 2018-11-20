@@ -12,6 +12,8 @@ css: |
     --hero-desktop-background-position: center;
     --hero-desktop-background-image: url("/uploads/hero-landing.png");
     --organization-width: 144px;
+    --support-hero-background-position: center;
+    --support-hero-background-image: url("/uploads/hero-support.png");
   }
   @media screen and (min-width: 768px) and (max-width: 1279px) {
     :root {
@@ -37,6 +39,15 @@ css: |
   .hero.you-are-powerful img {
     min-width: 288px;
     max-width: 100%;
+  }
+
+  .hero.support {
+    background-image: var(--support-hero-background-image);
+    background-position: var(--support-hero-background-position);
+  }
+
+  .hero.support .call-to-action {
+    background-color: #C75300;
   }
 ---
 
@@ -65,7 +76,7 @@ Organizations we have partnered with to offer self-defense training for communit
 * ![YWCA Glendale: Eliminating Racism, Empowering Women](/uploads/org-glendale-ywca.svg)
 {: .blocks.organizations}
 
-> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/04HIRa8TnNA?controls=0" frameborder="0" allowfullscreen></iframe>
+> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AG625N9x904?controls=0" frameborder="0" allowfullscreen></iframe>
 {: .video}
 
 Follow us to hear of our upcoming events
@@ -90,13 +101,14 @@ OUR CAMPAIGN
 
 We are proud to stand with women as they defend themselves against acts of violence.  Our campaign mission to provide all-inclusive self-defense training to one thousand women and girls. 
 
+<section class="counter">
 * 0
 * 4
 * 2
 * 0
-{: .counter}
 
 women and girls taught so far
+</section>
 
 [Learn more](/you-are-powerful)
 </section>
@@ -122,9 +134,10 @@ Some of the trainings we offer
 {: .blocks}
 
 ## Want to partner with us to provide self-defense training for your community?
+{: .center}
 
-[Let’s chat](/contact)
-{: .call-to-action}
+[Let’s chat](/contact){: .call-to-action}
+{: .center}
 
 <section class="hero support">
 MAKE AN IMPACT
@@ -137,8 +150,8 @@ Help us continue our work in meeting the need for high-quality self-defense trai
 Your generosity keeps us going.
 {: .center}
 
-[MAKE A DONATION](/support)
-{: .call-to-action}
+[MAKE A DONATION](/support){: .call-to-action}
+{: .center}
 </section>
 
 # Community programs
@@ -147,7 +160,7 @@ Our instructors are veterans in teaching self-defense.  The high caliber of thei
 
 [View community events](/community-events)
 
-> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/04HIRa8TnNA?controls=0" frameborder="0" allowfullscreen></iframe>
+> <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9EdwEYLN_XU?controls=0" frameborder="0" allowfullscreen></iframe>
 {: .video}
 
 > “Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.”
