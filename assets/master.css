@@ -11,6 +11,10 @@
   --p-padding-bottom: 80px;
   --figcaption-font-size: 12px;
   --figcaption-padding-bottom: 19px;
+  --blocks-max-width: 200px;
+  --blocks-align-items: center;
+  --blocks-justify-content: center;
+  --blocks-horizontal-margins: 0;
 }
 
 @media screen and (min-width: 768px) and (max-width: 1279px) {
@@ -19,6 +23,10 @@
     --p-font-size: 18px;
     --figcaption-font-size: 16px;
     --figcaption-padding-bottom: 17px;
+    --blocks-max-width: 158px;
+    --blocks-align-items: flex-start;
+    --blocks-justify-content: space-evenly;
+    --blocks-horizontal-margins: 22px;
   }
 }
 
@@ -28,6 +36,9 @@
     --p-font-size: 20px;
     --figcaption-font-size: 16px;
     --figcaption-padding-bottom: 17px;
+    --blocks-align-items: flex-start;
+    --blocks-justify-content: space-evenly;
+    --blocks-horizontal-margins: 27px;
   }
 }
 
@@ -79,12 +90,40 @@ figure {
 ul.blocks {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-between;
+  align-items: var(--blocks-align-items);
+  justify-content: var(--blocks-justify-content);
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
 ul.blocks li {
-  margin: 0;
+  margin: 0 0 40px;
+  display: flex;
+  max-width: var(--blocks-max-width);
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+ul.blocks li img {
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+.call-to-action {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--inverse-text-color);
+  font-size: 16px;
+  font-weight: bold;
+  line-height: 22px;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: 0.05em;
+  text-decoration: none;
+  width: 200px;
+  height: 48px;
+  background-color: #412CCE;
 }
