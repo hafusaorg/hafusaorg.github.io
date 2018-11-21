@@ -4,6 +4,7 @@
   --normal-text-color: #333333;
   --inverse-text-color: #F9F9F9;
   --sans-serif-font-family: Lato, sans-serif;
+  --serif-font-family: Crimson Text, serif;
   /* Responsive variables */
   --h1-font-size: 24px;
   --h1-padding-bottom: 40px;
@@ -131,16 +132,20 @@ ul.blocks li img, blockquote ul li img {
 blockquote {
   max-width: 524px;
   margin: 0 auto;
-  font-family: Crimson Text, serif;
+  font-family: var(--serif-font-family);
   font-size: var(--p-font-size);
   letter-spacing: 0.02em;
 }
 
 blockquote blockquote {
-  font-family: Lato, sans-serif;
+  font-family: var(--sans-serif-font-family);
   width: fit-content;
 }
 
 blockquote p {
   padding-bottom: 40px;
+}
+
+input {
+  font-family: var(--sans-serif-font-family);
 }

@@ -53,7 +53,6 @@ main>article {
   background-color: #000000;
   background-repeat: no-repeat;
   background-size: cover;
-
 }
 
 .hero, .hero a {
@@ -214,4 +213,47 @@ ul.social-buttons li {
   right: 0;
   border-top: solid 1px #828282;
   z-index: -1;
+}
+
+.subscribe {
+  background-color: #150A59;
+  text-align: center;
+  padding: 40px 16px;
+}
+
+.subscribe, .subscribe a {
+  color: var(--inverse-text-color);
+}
+
+.subscribe heading {
+  font-size: var(--p-font-size);
+}
+
+.subscribe h1 {
+  padding-bottom: 8px;
+}
+
+.subscribe .mc-field-group {
+  margin: 40px 0;
+}
+
+.subscribe .email {
+  width: 100%;
+  background-color: transparent;
+  border: 0;
+  border-bottom: solid 2px #FFFFFF;
+  text-align: center;
+  padding: 4px;
+  font-size: var(--p-font-size);
+  color: var(--inverse-text-color);
+}
+
+.subscribe .email::placeholder {
+  color: var(--inverse-text-color);
+}
+
+.subscribe .call-to-action {
+  color: #150A59;
+  background-color: #FFFFFF;
+  border: 0;
 }
