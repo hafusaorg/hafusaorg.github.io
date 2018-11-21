@@ -87,7 +87,7 @@ figure {
   text-align: center;
 }
 
-ul.blocks {
+ul.blocks, blockquote ul {
   display: flex;
   flex-wrap: wrap;
   align-items: var(--blocks-align-items);
@@ -97,17 +97,17 @@ ul.blocks {
   margin: 0;
 }
 
-ul.blocks li {
+ul.blocks li, blockquote ul li {
   margin: 0 0 40px;
   display: flex;
-  max-width: var(--blocks-max-width);
   flex-direction: column;
   align-items: center;
   text-align: center;
 }
 
-ul.blocks li img {
+ul.blocks li img, blockquote ul li img {
   width: 100%;
+  max-width: var(--blocks-max-width);
   margin-bottom: 16px;
 }
 
@@ -126,4 +126,21 @@ ul.blocks li img {
   width: 200px;
   height: 48px;
   background-color: #412CCE;
+}
+
+blockquote {
+  max-width: 524px;
+  margin: 0 auto;
+  font-family: Crimson Text, serif;
+  font-size: var(--p-font-size);
+  letter-spacing: 0.02em;
+}
+
+blockquote blockquote {
+  font-family: Lato, sans-serif;
+  width: fit-content;
+}
+
+blockquote p {
+  padding-bottom: 40px;
 }

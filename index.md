@@ -52,9 +52,9 @@ css: |
 ---
 
 <section class="hero">
-# Empowering communities to stand up to violence
+# Transform into your strongest self—when you need it the most  
 
-We provide self-defense training to local communities in the Los Angeles County and the greater Los Angeles area.
+We provide self-defense training to communities in the greater Los Angeles area
 
 Learn more
 {: .more}
@@ -63,11 +63,11 @@ Learn more
 THE VISION
 {: .figcaption}
 
-# We see a future where violence no longer tears the fabric of our communities.
+# We see a future where violence is met with empowered strength.
 
-Harmony Aikido Foundation takes a preventative approach towards violence by equipping people to defend themselves and their loved ones against physical attacks. We partner with local community groups to provide high-quality self-defense and awareness training for community members of all ages.
+Harmony Aikido Foundation takes a preventative approach against violence by equipping people to defend themselves and their loved ones against physical attacks. We partner with local community groups to provide high-quality self-defense and awareness training for community members of all ages.
 
-Organizations we have partnered with to offer self-defense training for community members of all ages. 
+Organizations we have partnered with to offer self-defense training
 {: .center}
 
 * ![Alive and Well Women](/uploads/org-alive-and-well.svg)
@@ -79,7 +79,7 @@ Organizations we have partnered with to offer self-defense training for communit
 > <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AG625N9x904?controls=0" frameborder="0" allowfullscreen></iframe>
 {: .video}
 
-Follow us to hear of our upcoming events
+Follow us to hear of our upcoming events!
 {: .center}
 
 * [![Youtube](/uploads/icon-youtube.svg)](https://go.hafusa.org/youtube-hafusaorg)
@@ -99,7 +99,7 @@ OUR CAMPAIGN
 <section>
 # You Are Powerful
 
-We are proud to stand with women as they defend themselves against acts of violence.  Our campaign mission to provide all-inclusive self-defense training to one thousand women and girls. 
+We are proud to stand with women as they defend themselves against acts of violence.  Our campaign mission to provide all-inclusive self-defense training to one thousand women and girls.
 
 <section class="counter">
 * 0
@@ -120,7 +120,7 @@ WHY TRAIN WITH US?
 
 # We have the expertise.
 
-Our instructors are veterans in teaching self-defense.  The high caliber of their expertise enables Harmony Aikido Foundation to tailor our self-defense training sessions to participants’ specific skill levels and needs.  [Learn more](/about)
+Our instructors are veterans in teaching self-defense.  The high caliber of their expertise enables Harmony Aikido Foundation to tailor our self-defense training sessions to participants’ specific skill levels and needs. [Learn more](/about)
 
 Some of the trainings we offer
 {: .center}
@@ -130,7 +130,7 @@ Some of the trainings we offer
 * ![female instructor teaching girl](/uploads/classes-2.png)
   Escape and evasion techniques
 * ![woman learning blocking from female instructor](/uploads/classes-3.png)
-  Y.E.S (yell, escape, stun) method
+  War Cry Training
 {: .blocks}
 
 ## Want to partner with us to provide self-defense training for your community?
@@ -145,7 +145,7 @@ MAKE AN IMPACT
 
 # Your support is meaningful.
 
-Help us continue our work in meeting the need for high-quality self-defense training for the local communities. Your donation will also help cover our operation costs as a nonprofit organization that empowers communities to stand up to violence.
+Help us continue our work in meeting the need for transformational self-defense training for the local communities. Your donation will also help cover our operation costs as a nonprofit organization that empowers communities to stand up to violence.
 
 Your generosity keeps us going.
 {: .center}
@@ -156,15 +156,15 @@ Your generosity keeps us going.
 
 # Community programs
 
-Our instructors are veterans in teaching self-defense.  The high caliber of their expertise enables Harmony Aikido Foundation to tailor our self-defense training sessions to participants’ specific skill levels and needs.
+We partner with local organizations in providing self-defense workshops that are open to various members of the community. Our goal is to increase our participants’ situational awareness and give them the ability to react safely to dangerous situations, and ideally, to avoid and prevent them from occurring whenever possible. No previous training is necessary, just a willingness to learn.
 
 [View community events](/community-events)
 
 > <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9EdwEYLN_XU?controls=0" frameborder="0" allowfullscreen></iframe>
 {: .video}
 
-> “Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.”
-
-> Jane Doe
-> Organization Name
-{: .center}
+> “Harmony Aikido Foundation (HAF) participated in our Sisters Empowerment and did an absolutely amazing job. The young girls enjoyed themselves so much—you could tell by how engaged they were in the different activities. Not only was the HAF crew hands on with showing them some moves, they also taught the girls some valuable lessons when it comes to being aware and using their voices. These girls were taught something they can take into their daily lives and we are extremely grateful!”
+> * ![photo of women teaching](/uploads/the-sisters-group-photo.png)
+    Lawrencia Scott
+    > THE SISTERS GROUP
+{: quote}
