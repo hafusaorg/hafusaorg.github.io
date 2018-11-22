@@ -14,20 +14,43 @@ css: |
     --organization-width: 144px;
     --support-hero-background-position: center;
     --support-hero-background-image: url("/uploads/hero-support.png");
+    --hero-h1-text-align: left;
   }
   @media screen and (min-width: 768px) and (max-width: 1279px) {
     :root {
       --organization-width: 117px;
+      --hero-h1-text-align: center;
     }
   }
-  @media screen and (min-width: 1200px) {
+  @media screen and (min-width: 1280px) {
     :root {
       --organization-width: 148px;
+      --hero-h1-text-align: left;
     }
   }
 
   .blocks.organizations img {
     width: var(--organization-width);
+  }
+
+  @media screen and (min-width: 768px) and (max-width: 1279px) {
+    .hero:first-child {
+      text-align: center;
+    }
+  }
+  @media screen and (min-width: 1280px) {
+    .hero:first-child {
+      padding-left: 96px;
+      padding-right: 96px;
+    }
+    .hero:first-child h1,
+    .hero:first-child p {
+      margin-left: calc(50% + 20px);
+    }
+
+    .hero:first-child p.more {
+      margin-left: 0;
+    }
   }
 
   .hero.you-are-powerful {
