@@ -15,6 +15,10 @@ kramdown:
   parse_block_html: true
 plugins:
 - jekyll-feed
+subscribe_form:
+  mailchimp_list_id: 4000627a40
+contact:
+  email: info@hafusa.org
 navigation:
   main:
   - label: About
@@ -34,11 +38,20 @@ navigation:
     url: "/support"
   footer:
   - label: About Us
-    url: "/about"
+    url: "#"
+    items:
+    - label: What We Do
+      url: "/about"
   - label: Classes
     url: "#"
+    items:
+    - label: Coming Soon
+      url: "#"
   - label: Resources
-    url: "/resources"
+    url: "#"
+    items:
+    - label: Coming Soon
+      url: "/resources"
   - label: Community Programs
     url: "#"
     items:

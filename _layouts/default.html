@@ -68,59 +68,63 @@
     </article>
   </main>
   {% if page.show_subscribe_form %}
-    <section class="subscribe">
-      <header>
-        <h1>
-          Subscribe
-        </h1>
-        to get our newsletter
-      </header>
-      <!-- Begin Mailchimp Signup Form -->
-      <form action="https://hafusa.us16.list-manage.com/subscribe/post?u=626709feeedcbadf255c33e2f&amp;id=715de3ccdb" method="post"
-        id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-        <div class="mc-field-group">
-          <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="YOUR E-MAIL ADDRESS">
+  <form action="https://hafusa.us16.list-manage.com/subscribe/post?u=626709feeedcbadf255c33e2f&amp;id={{ site.subscribe_form.mailchimp_list_id}}" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+      <section class="subscribe">
+        <header>
+          <h1>
+            Subscribe
+          </h1>
+          to get our newsletter
+        </header>
+        <div class="input">
+          <div class="mc-field-group email-container">
+            <input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL" placeholder="YOUR E-MAIL ADDRESS">
+          </div>
+          <div id="mce-responses" class="clear">
+            <p class="response" id="mce-error-response" style="display:none"></p>
+            <p class="response" id="mce-success-response" style="display:none"></p>
+          </div>
+          <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+          <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_626709feeedcbadf255c33e2f_715de3ccdb" tabindex="-1" value=""></div>
         </div>
-        <div id="mce-responses" class="clear">
-          <p class="response" id="mce-error-response" style="display:none"></p>
-          <p class="response" id="mce-success-response" style="display:none"></p>
-        </div>
-        <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-        <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_626709feeedcbadf255c33e2f_715de3ccdb" tabindex="-1" value=""></div>
         <div class="clear">
           <input type="submit" value="Submit" name="subscribe" id="mc-embedded-subscribe" class="button call-to-action">
         </div>
         </div>
-      </form>
-      </div>
-      <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
-      <script type='text/javascript'>(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; fnames[3] = 'ADDRESS'; ftypes[3] = 'address'; fnames[4] = 'PHONE'; ftypes[4] = 'phone'; }(jQuery)); var $mcj = jQuery.noConflict(true);</script>
-      <!--End mc_embed_signup-->
-    </section>
+        <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script>
+        <script type='text/javascript'>(function ($) { window.fnames = new Array(); window.ftypes = new Array(); fnames[0] = 'EMAIL'; ftypes[0] = 'email'; fnames[1] = 'FNAME'; ftypes[1] = 'text'; fnames[2] = 'LNAME'; ftypes[2] = 'text'; fnames[3] = 'ADDRESS'; ftypes[3] = 'address'; fnames[4] = 'PHONE'; ftypes[4] = 'phone'; }(jQuery)); var $mcj = jQuery.noConflict(true);</script>
+      </section>
+    </form>
   {% endif %}
   <footer>
     <section>
-      <div class="left">
-        <img src="/uploads/logo-footer.png" alt="Harmony Aikido Foundation">
-      </div>
-      <div class="right">
-        <div class="social">
-          <a href="https://go.hafusa.org/youtube-hafusaorg" target="_blank">
-            <img src="/uploads/icon-youtube.svg" alt="Youtube">
-          </a>
-          <a href="https://www.instagram.com/hafusaorg" target="_blank">
-            <img src="/uploads/icon-instagram.svg" alt="Instagram">
-          </a>
-          <a href="https://www.facebook.com/hafusaorg" target="_blank">
-            <img src="/uploads/icon-facebook.svg" alt="Facebook">
-          </a>
-        </div>
-        <p>
-            Have a question? Email us at <a href="mailto:info@hafusa.org">info@hafusa.org</a>
-        </p>
+      <div class="h-card">
+        <a href="/" class="u-url">
+            <img class="u-photo" src="/uploads/logo-footer.png" alt="Harmony Aikido Foundation">
+        </a>
+        <a class="u-email" href="mailto:{{ site.contact.email }}">
+          {{ site.contact.email }}
+        </a>
+        <ul class="social-buttons">
+          <li>
+            <a href="https://go.hafusa.org/youtube-hafusaorg" target="_blank" class="u-url">
+              <img src="/uploads/icon-youtube.svg" alt="Youtube">
+            </a>
+          </li>
+          <li>
+            <a href="https://www.instagram.com/hafusaorg" target="_blank" class="u-url">
+              <img src="/uploads/icon-instagram.svg" alt="Instagram">
+            </a>
+          </li>
+          <li>
+            <a href="https://www.facebook.com/hafusaorg" target="_blank" class="u-url">
+              <img src="/uploads/icon-facebook.svg" alt="Facebook">
+            </a>
+          </li>
+        </ul>
       </div>
     </section>
-    <section>
+    <section class="navigation">
       <ul>
         {% for item in site.navigation.footer %}
           <li>
@@ -143,12 +147,15 @@
       </ul>
     </section>
     <section class="center">
-       <p>
-         &copy; 2018  All Rights Reserved  Harmony Aikido Foundation
-        </p>
-        <p>
-          Website designed by <a href="#">Rachel Atmadja</a> & developed by <a href="#">Daniel James</a>
-        </p>
+      <p class="copyright">
+        &copy; 2018  All Rights Reserved  Harmony Aikido Foundation
+      </p>
+      <p class="attribution">
+          This website is designed by
+          <a href="https://rachelatmadja.com/" target="_blank">Rachel Atmadja</a>
+          &amp; developed by
+          <a href="https://thzinc.com/" target="_blank">Daniel James</a>
+      </p>
     </section>
   </footer>
   <script type="text/javascript" src="/assets/main.js"></script>
