@@ -49,28 +49,18 @@ We partner with local community groups to provide high-quality self-defense and 
 
 <section class="hero testimonials">
 
-* > “Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.”
 
-  * Jane Doe
+> “Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.”
+>
+>   Jane Doe
+>   Organization name
+>   {: quote}
 
-  * Organization name
+# Our approach
 
-* > “Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.”
+We offer a combination of situational training with an emphasis on practical techniques that are effective in real-life situations.  Our classes are small insize (usually between 15 - 25 people), which enables us to offer a highly interactive learning experience where attendees can ask questions and join in discussions.  
 
-  * Jane Doe
-
-  * Organization name
-
-* > “Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.”
-
-  * Jane Doe
-
-  * Organization name
-    </section>
-
-# Our Approach
-
-We offer a combination of empowerment training and an emphasis on practical techniques that are effective in real-life situations. Our instructors have years of practical experience and a passion to impart knowledge and experience in an engaging, friendly and interactive manner.
+We encourage our attendees to  actively join in, contribute their own experiences, and challenge one another to ask practical questions and find real answers. We find this interactive style of group learning to be highly effective in learning not only physical responses to violence but also learning ways to foresee potential violence and avoid it if possible)
 
 Some of the trainings we offer
 {: .center}
@@ -82,12 +72,11 @@ Some of the trainings we offer
   Escape and evasion techniques
 
 * ![woman learning blocking from female instructor](/uploads/classes-3.png)
-  Y.E.S (yell, escape, stun) method
-  {: .blocks}
+  War Cry Training
+{: .blocks}
 
-Our classes are small insize (usually between 15 - 25 people). Because of the size of our classes, we are able to offer a highly interactive learning experience where attendees can ask questions and join in discussions.  We encourage our attendees to  actively join in, contribute their own experiences, and challenge one another to learn. We find that these group exercises where we encourage attendees to reflect on practical applications of what they just learned extremely effective in reinforcing the lessons they just learned.
+
 
 ## Want to partner with us to provide self-defense training for your community?
 
-[Let’s chat](/contact)
-{: .call-to-action}
+[Let’s chat](/contact){: .call-to-action}
