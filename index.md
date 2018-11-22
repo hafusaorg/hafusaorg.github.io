@@ -1,5 +1,6 @@
 ---
 title: Empowering communities to stand up to violence
+layout: default
 social:
   image: "/uploads/logo.png"
   description: Empowering communities to stand up to violence
@@ -71,12 +72,10 @@ css: |
   .hero.support .call-to-action {
     background-color: #C75300;
   }
-layout: default
 ---
 
 <section class="hero">
-
-# Transform into your strongest self—when you need it the most
+# Transform into your strongest self—when you need it the most  
 
 We provide self-defense training to communities in the greater Los Angeles area
 
@@ -95,26 +94,22 @@ Organizations we have partnered with to offer self-defense training
 {: .center}
 
 * ![Alive and Well Women](/uploads/org-alive-and-well.svg)
-
 * ![The Salvation Army](/uploads/org-salvation-army.svg)
-
 * ![Los Angeles County Supervisor Janice Hahn, Fourth District](/uploads/org-janice-hahn.svg)
-
 * ![YWCA Glendale: Eliminating Racism, Empowering Women](/uploads/org-glendale-ywca.svg)
-  {: .blocks.organizations}
+{: .blocks.organizations}
 
 > <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/AG625N9x904?controls=0" frameborder="0" allowfullscreen></iframe>
-> {: .video}
+{: .video}
 
 Follow us to hear of our upcoming events!
 {: .center}
 
-* ![Youtube](/uploads/icon-youtube.svg)
+* [![Youtube](/uploads/icon-youtube.svg)](https://go.hafusa.org/youtube-hafusaorg)
+* [![Instagram](/uploads/icon-instagram.svg)](https://www.instagram.com/hafusaorg)
+* [![Facebook](/uploads/icon-facebook.svg)](https://www.facebook.com/hafusaorg)
+{: .social-buttons}
 
-* ![Instagram](/uploads/icon-instagram.svg)
-
-* ![Facebook](/uploads/icon-facebook.svg)
-  {: .social-buttons}
 
 <section class="hero you-are-powerful">
 OUR CAMPAIGN
@@ -125,19 +120,14 @@ OUR CAMPAIGN
 !["You Are Powerful" painting of female Aikidoist in impressionist style](/uploads/you-are-powerful-art.png)
 </figure>
 <section>
-
 # You Are Powerful
 
 We are proud to stand with women as they defend themselves against acts of violence.  Our campaign mission to provide all-inclusive self-defense training to one thousand women and girls.
 
 <section class="counter">
-
 * 0
-
 * 4
-
 * 2
-
 * 0
 
 women and girls taught so far
@@ -160,16 +150,13 @@ Some of the trainings we offer
 
 * ![woman teaching class](/uploads/classes-1.png)
   Awareness training
-
 * ![female instructor teaching girl](/uploads/classes-2.png)
   Escape and evasion techniques
-
 * ![woman learning blocking from female instructor](/uploads/classes-3.png)
   War Cry Training
 {: .blocks}
 
 ## Want to partner with us to provide self-defense training for your community?
-
 {: .center}
 
 [Let’s chat](/contact){: .call-to-action}
@@ -197,11 +184,10 @@ We partner with local organizations in providing self-defense workshops that are
 [View community events](/community-events)
 
 > <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9EdwEYLN_XU?controls=0" frameborder="0" allowfullscreen></iframe>
-> {: .video}
+{: .video}
 
 > “Harmony Aikido Foundation (HAF) participated in our Sisters Empowerment and did an absolutely amazing job. The young girls enjoyed themselves so much—you could tell by how engaged they were in the different activities. Not only was the HAF crew hands on with showing them some moves, they also taught the girls some valuable lessons when it comes to being aware and using their voices. These girls were taught something they can take into their daily lives and we are extremely grateful!”
->
 > * ![photo of women teaching](/uploads/the-sisters-group-photo.png)
->   Lawrencia Scott
->   THE SISTERS GROUP
->   {: quote}
+    Lawrencia Scott
+    > THE SISTERS GROUP
+{: quote}
