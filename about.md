@@ -8,6 +8,14 @@ css: |-
     --hero-desktop-background-position: center;
     --hero-desktop-background-image: url("/uploads/hero-about.png");
   }
+
+  .blocks.team img {
+    max-width: 336px;
+  }
+  .team blockquote {
+    font-family: var(--sans-serif-font-family);
+    font-size: 14px;
+  }
 layout: default
 ---
 
@@ -48,13 +56,12 @@ We partner with local community groups to provide high-quality self-defense and 
 </section>
 
 <section class="hero testimonials">
+> “Harmony Aikido Foundation (HAF) participated in our Sisters Empowerment and did an absolutely amazing job. The young girls enjoyed themselves so much—you could tell by how engaged they were in the different activities. Not only was the HAF crew hands on with showing them some moves, they also taught the girls some valuable lessons when it comes to being aware and using their voices. These girls were taught something they can take into their daily lives and we are extremely grateful!”
+> * Lawrencia Scott
+    > THE SISTERS GROUP
+{: quote}
+</section>
 
-
-> “Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore.”
->
->   Jane Doe
->   Organization name
->   {: quote}
 
 # Our approach
 
@@ -67,16 +74,45 @@ Some of the trainings we offer
 
 * ![woman teaching class](/uploads/classes-1.png)
   Awareness training
-
 * ![female instructor teaching girl](/uploads/classes-2.png)
   Escape and evasion techniques
-
 * ![woman learning blocking from female instructor](/uploads/classes-3.png)
   War Cry Training
 {: .blocks}
 
+WHO WE ARE
+{: .figcaption}
 
+# Meet the Harmony Aikido Foundation Team
+
+* ![Ethan Tam](/uploads/team-ethan.png)
+  Ethan Tam
+  > PRESIDENT & INSTRUCTOR
+* ![JT Tam](/uploads/team-jt.png)
+  JT Tam
+  > PRESIDENT & INSTRUCTOR
+* ![Kristen Tam](/uploads/team-kristen.png)
+  Kristen Tam
+  > TREASURER & INSTRUCTOR
+* ![Bonnie James](/uploads/team-bonnie.png)
+  Bonnie James
+  > FUNDRAISING COORDINATOR & INSTRUCTOR
+* ![Chelsea Doryumu](/uploads/team-chelsea.png)
+  Chelsea Doryumu
+  > PROJECT MANAGER
+* ![Daniel James](/uploads/team-daniel.png)
+  Daniel James
+  > OPERATIONS MANAGER
+* ![Harold Doryumu](/uploads/team-harold.png)
+  Harold Doryumu
+  > ART DIRECTOR
+* ![Rachel Atmadja](/uploads/team-rachel.png)
+  Rachel Atmadja
+  > DIGITAL STRATEGIST
+{: .blocks.team}
 
 ## Want to partner with us to provide self-defense training for your community?
+{: .center}
 
 [Let’s chat](/contact){: .call-to-action}
+{: .center}
