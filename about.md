@@ -44,8 +44,8 @@ We partner with local community groups to provide high-quality self-defense and 
 
   * Organizations served
     {: .caption}
-    {: .blocks}
-    </section>
+{: .blocks}
+</section>
 
 <section class="hero testimonials">
 
