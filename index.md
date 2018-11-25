@@ -13,7 +13,7 @@ css: |
     --hero-desktop-background-image: url("/uploads/hero-landing.png");
     --organization-width: 144px;
     --support-hero-background-position: center;
-    --support-hero-background-image: url("/uploads/hero-support.png");
+    --support-hero-background-image: url("/uploads/hero-support-dark.png");
     --hero-h1-text-align: left;
   }
   @media screen and (min-width: 768px) and (max-width: 1279px) {

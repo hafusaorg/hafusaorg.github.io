@@ -79,7 +79,7 @@
   background-image: url("/uploads/close.svg");
 }
 
-#main-navigation .logo {
+#main-navigation .logo, body::before {
   display: block;
   width: var(--logo-width);
   height: var(--logo-width);
@@ -89,6 +89,20 @@
   background-repeat: no-repeat;
   font-size: 0;
   align-self: var(--logo-align-self);
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .show-main-navigation #main-navigation .logo {
+    display: none;
+  }
+  body.show-main-navigation::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: calc(var(--margin) + var(--logo-width) + var(--margin));
+  }
 }
 
 #main-navigation section {
