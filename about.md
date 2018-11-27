@@ -34,7 +34,7 @@ layout: default
 
 <section class="hero">
 
-# Empowering communities to stand up to violence
+# We teach people to transform into their strongest selves when they need it the most 
 
 Learn more
 {: .more}
