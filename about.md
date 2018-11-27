@@ -90,7 +90,7 @@ WHO WE ARE
   > PRESIDENT & INSTRUCTOR
 * ![JT Tam](/uploads/team-jt.png)
   JT Tam
-  > PRESIDENT & INSTRUCTOR
+  > EXECUTIVE DIRECTOR & INSTRUCTOR
 * ![Kristen Tam](/uploads/team-kristen.png)
   Kristen Tam
   > TREASURER & INSTRUCTOR
