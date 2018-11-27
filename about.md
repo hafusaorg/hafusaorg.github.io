@@ -85,7 +85,7 @@ We offer a combination of situational training with an emphasis on practical tec
 
 We encourage our attendees to actively join in, contribute their own experiences, and challenge one another to ask practical questions and find real answers. We find this interactive style of group learning to be highly effective in learning not only physical responses to violence, but also learning ways to foresee potential violence and avoid it if possible.
 
-Some of the trainings we offer
+Some of the trainings we offer:
 {: .center}
 
 * ![woman teaching class](/uploads/classes-1.png)
