@@ -88,9 +88,9 @@ THE VISION
 
 # We see a future where violence is met with empowered strength.
 
-Harmony Aikido Foundation takes a preventative approach against violence by equipping people to defend themselves and their loved ones against physical attacks. We partner with local community groups to provide high-quality self-defense and awareness training for community members of all ages.
+Harmony Aikido Foundation takes a preventative approach against violence by equipping individuals to defend themselves and their loved ones against physical attacks. We partner with local community groups to provide high-quality self-defense and awareness training to community members of all ages.
 
-Organizations we have partnered with to offer self-defense training
+Organizations we have partnered with to offer self-defense training:
 {: .center}
 
 * ![Alive and Well Women](/uploads/org-alive-and-well.svg)
@@ -122,7 +122,7 @@ OUR CAMPAIGN
 <section>
 # You Are Powerful
 
-We are proud to stand with women as they defend themselves against acts of violence.  Our campaign mission to provide all-inclusive self-defense training to one thousand women and girls.
+We are proud to stand with women as they defend themselves against acts of violence.  Our campaign mission is to provide all-inclusive self-defense training to one thousand women and girls.
 
 <section class="counter">
 * 0
@@ -130,7 +130,7 @@ We are proud to stand with women as they defend themselves against acts of viole
 * 2
 * 0
 
-women and girls taught so far
+women and girls taught
 </section>
 
 [Learn more](/you-are-powerful)
@@ -159,7 +159,7 @@ Some of the trainings we offer
 ## Want to partner with us to provide self-defense training for your community?
 {: .center}
 
-[Let’s chat](/contact){: .call-to-action}
+[Let’s talk](/contact){: .call-to-action}
 {: .center}
 
 <section class="hero support">
@@ -168,7 +168,7 @@ MAKE AN IMPACT
 
 # Your support is meaningful.
 
-Help us continue our work in meeting the need for transformational self-defense training for the local communities. Your donation will also help cover our operation costs as a nonprofit organization that empowers communities to stand up to violence.
+Help us continue our work in meeting the need for transformational self-defense training in local communities. Your donation will also help cover our operation costs as a nonprofit organization that empowers communities to stand up to violence.
 
 Your generosity keeps us going.
 {: .center}
@@ -179,7 +179,7 @@ Your generosity keeps us going.
 
 # Community programs
 
-We partner with local organizations in providing self-defense workshops that are open to various members of the community. Our goal is to increase our participants’ situational awareness and give them the ability to react safely to dangerous situations, and ideally, to avoid and prevent them from occurring whenever possible. No previous training is necessary, just a willingness to learn.
+We partner with local organizations in providing self-defense workshop to communities. Our goal is to increase our participants’ situational awareness and give them the ability to react safely in response to dangerous situations—or to prevent them from occurring in the first place. No previous training is necessary, just a willingness to learn.
 
 [View community events](/community-events)
 
