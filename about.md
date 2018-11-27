@@ -23,13 +23,14 @@ layout: default
 
 # Teaching people to transform into their strongest selves—when they need it the most
 
-Learn more
+What we do
 {: .more}
 </section>
+
 WHAT WE DO
 {: .figcaption}
 
-# We provide self-defense training to local communities in the Los Angeles County and the greater Los Angeles area.
+# We provide self-defense training to communities in the greater Los Angeles area.
 
 We partner with local community groups to provide high-quality self-defense and awareness workshops for community members of all ages. No prior experience is necessary—just an open mind, a humble spirit, and a wilingness to learn.
 
@@ -38,25 +39,27 @@ We partner with local community groups to provide high-quality self-defense and 
 * 13
   {: .figure}
 
-  * Training events held
-    {: .caption}
+  Training events held
+  {: .caption}
 
 * 420
   {: .figure}
 
-  * People trained
-    {: .caption}
+  People trained
+  {: .caption}
 
 * 7
   {: .figure}
 
-  * Organizations served
-    {: .caption}
+  Organizations served
+  {: .caption}
 {: .blocks}
 </section>
 
-<section class="hero testimonials">
-> “Harmony Aikido Foundation (HAF) participated in our Sisters Empowerment and did an absolutely amazing job. The young girls enjoyed themselves so much—you could tell by how engaged they were in the different activities. Not only was the HAF crew hands on with showing them some moves, they also taught the girls some valuable lessons when it comes to being aware and using their voices. These girls were taught something they can take into their daily lives and we are extremely grateful!”
+<section class="hero image-only" style="background-image: url('/uploads/hero-about-testimonials.png')">
+</section>
+<section class="hero social-proof">
+> “Harmony Aikido Foundation (HAF) participated in our Sisters Empowerment and did an absolutely amazing job. The young girls enjoyed themselves so much—you could tell by how engaged they were in the different activities.”
 > * Lawrencia Scott
     > THE SISTERS GROUP
 {: quote}
@@ -65,9 +68,9 @@ We partner with local community groups to provide high-quality self-defense and 
 
 # Our approach
 
-We offer a combination of situational training with an emphasis on practical techniques that are effective in real-life situations.  Our classes are small insize (usually between 15 - 25 people), which enables us to offer a highly interactive learning experience where attendees can ask questions and join in discussions.  
+We offer a combination of situational training with an emphasis on practical techniques that are effective in real-life situations. Our classes are small insize (usually between 15 - 25 people), which enables us to offer a highly interactive learning experience where attendees can ask questions and join in discussions.
 
-We encourage our attendees to  actively join in, contribute their own experiences, and challenge one another to ask practical questions and find real answers. We find this interactive style of group learning to be highly effective in learning not only physical responses to violence but also learning ways to foresee potential violence and avoid it if possible)
+We encourage our attendees to actively join in, contribute their own experiences, and challenge one another to ask practical questions and find real answers. We find this interactive style of group learning to be highly effective in learning not only physical responses to violence but also learning ways to foresee potential violence and avoid it if possible)
 
 Some of the trainings we offer
 {: .center}
@@ -116,3 +119,6 @@ WHO WE ARE
 
 [Let’s chat](/contact){: .call-to-action}
 {: .center}
+
+<section class="hero image-only" style="background-image: url('/uploads/hero-about-footer.png')">
+</section>
