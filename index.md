@@ -159,7 +159,7 @@ Some of the trainings we offer
 ## Want to partner with us to provide self-defense training for your community?
 {: .center}
 
-[Let’s chat](/contact){: .call-to-action}
+[Let’s talk](/contact){: .call-to-action}
 {: .center}
 
 <section class="hero support">
