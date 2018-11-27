@@ -122,7 +122,7 @@ OUR CAMPAIGN
 <section>
 # You Are Powerful
 
-We are proud to stand with women as they defend themselves against acts of violence.  Our campaign mission to provide all-inclusive self-defense training to one thousand women and girls.
+We are proud to stand with women as they defend themselves against acts of violence.  Our campaign mission is to provide all-inclusive self-defense training to one thousand women and girls.
 
 <section class="counter">
 * 0
@@ -130,7 +130,7 @@ We are proud to stand with women as they defend themselves against acts of viole
 * 2
 * 0
 
-women and girls taught so far
+women and girls taught
 </section>
 
 [Learn more](/you-are-powerful)
