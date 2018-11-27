@@ -1,6 +1,5 @@
 ---
 title: Empowering communities to stand up to violence
-layout: default
 social:
   image: "/uploads/logo.png"
   description: Empowering communities to stand up to violence
@@ -72,10 +71,11 @@ css: |
   .hero.support .call-to-action {
     background-color: #C75300;
   }
+layout: default
 ---
 
 <section class="hero">
-# Transform into your strongest self—when you need it the most  
+# Transform into your strongest self  
 
 We provide self-defense training to communities in the greater Los Angeles area
 
