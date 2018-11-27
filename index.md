@@ -88,9 +88,9 @@ THE VISION
 
 # We see a future where violence is met with empowered strength.
 
-Harmony Aikido Foundation takes a preventative approach against violence by equipping people to defend themselves and their loved ones against physical attacks. We partner with local community groups to provide high-quality self-defense and awareness training for community members of all ages.
+Harmony Aikido Foundation takes a preventative approach against violence by equipping individuals to defend themselves and their loved ones against physical attacks. We partner with local community groups to provide high-quality self-defense and awareness training to community members of all ages.
 
-Organizations we have partnered with to offer self-defense training
+Organizations we have partnered with to offer self-defense training:
 {: .center}
 
 * ![Alive and Well Women](/uploads/org-alive-and-well.svg)
