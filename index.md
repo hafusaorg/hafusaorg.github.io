@@ -75,7 +75,7 @@ layout: default
 ---
 
 <section class="hero">
-# Empowering communities to stand up to violence 
+# Empowering communities to stand up to violence
 
 We provide self-defense training to communities in the greater Los Angeles area.
 
