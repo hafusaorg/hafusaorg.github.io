@@ -34,7 +34,7 @@ layout: default
 
 <section class="hero">
 
-# Teaching people to transform into their strongest selves—when they need to
+# Teaching people to transform into their strongest selves when they it the most
 
 What we do
 {: .more}
