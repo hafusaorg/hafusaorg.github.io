@@ -63,16 +63,19 @@
 
 #main-navigation .corner {
   display: var(--corner-display);
-  position: absolute;
+  position: fixed;
   top: var(--margin);
   left: var(--margin);
   width: 30px;
   height: 30px;
+  border: 0;
+  background-color: transparent;
   background-image: url("/uploads/menu.svg");
   background-size: 30px 30px;
   background-position: center;
   background-repeat: no-repeat;
   font-size: 0;
+  outline: none;
 }
 
 .show-main-navigation #main-navigation .corner {
