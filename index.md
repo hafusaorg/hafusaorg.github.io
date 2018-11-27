@@ -179,7 +179,7 @@ Your generosity keeps us going.
 
 # Community programs
 
-We partner with local organizations in providing self-defense workshops that are open to various members of the community. Our goal is to increase our participants’ situational awareness and give them the ability to react safely to dangerous situations, and ideally, to avoid and prevent them from occurring whenever possible. No previous training is necessary, just a willingness to learn.
+We partner with local organizations in providing self-defense workshops that are open to various members of the community. Our goal is to increase our participants’ situational awareness and give them the ability to react safely to dangerous situations—or to prevent them from occurring in the first place. No previous training is necessary, just a willingness to learn.
 
 [View community events](/community-events)
 
