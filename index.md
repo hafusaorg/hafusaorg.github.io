@@ -168,7 +168,7 @@ MAKE AN IMPACT
 
 # Your support is meaningful.
 
-Help us continue our work in meeting the need for transformational self-defense training for the local communities. Your donation will also help cover our operation costs as a nonprofit organization that empowers communities to stand up to violence.
+Help us continue our work in meeting the need for transformational self-defense training in local communities. Your donation will also help cover our operation costs as a nonprofit organization that empowers communities to stand up to violence.
 
 Your generosity keeps us going.
 {: .center}
