@@ -12,9 +12,22 @@ css: |-
   .blocks.team img {
     max-width: 336px;
   }
-  .team blockquote {
+  .team {
+    font-family: var(--serif-font-family);
+    font-weight: 600;
+    line-height: 43px;
+    font-size: 29px;
+    text-align: center;
+    letter-spacing: 0.02em;
+  }
+  .team blockquote p {
     font-family: var(--sans-serif-font-family);
+    font-weight: bold;
+    line-height: 19px;
     font-size: 14px;
+    text-align: center;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
   }
 layout: default
 ---
