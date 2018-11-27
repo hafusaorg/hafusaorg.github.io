@@ -45,9 +45,7 @@ WHAT WE DO
 
 # We provide self-defense training to communities in the greater Los Angeles area.
 
-We partner with local community groups to provide high-quality self-defense and awareness workshops for community members of all ages. 
-
-No prior experience is necessary—just an open mind, a humble spirit, and a wilingness to learn.
+We partner with local community groups to provide high-quality self-defense and awareness workshops for community members of all ages. No prior experience is necessary—just an open mind, a humble spirit, and a wilingness to learn.
 
 <section class="numbers">
 
