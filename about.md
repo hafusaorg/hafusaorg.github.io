@@ -47,6 +47,8 @@ WHAT WE DO
 
 We partner with local community groups to provide high-quality self-defense and awareness workshops for community members of all ages. No prior experience is necessary—just an open mind, a humble spirit, and a willingness to learn.
 
+# Our impact
+
 <section class="numbers">
 
 * 13
