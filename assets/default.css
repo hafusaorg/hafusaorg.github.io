@@ -140,6 +140,11 @@ main>article {
   }
 }
 
+.hero.no-padding {
+  padding: 0;
+  margin-bottom: 0;
+}
+
 .hero.image-only {
   height: var(--hero-image-only-height);
   padding: 0;
