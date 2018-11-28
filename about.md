@@ -36,7 +36,7 @@ layout: default
 
 # We empower communities to stand up to violence 
 
-What we do
+Learn more
 {: .more}
 </section>
 
