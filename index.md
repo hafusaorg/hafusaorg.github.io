@@ -77,7 +77,7 @@ layout: default
 <section class="hero">
 # Transform into your strongest self
 
-We provide situational awareness and self-defense training to communities in the greater Los Angeles area.
+We provide situational awareness & self-defense training to communities in the greater Los Angeles area.
 
 Learn more
 {: .more}
