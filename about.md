@@ -34,7 +34,7 @@ layout: default
 
 <section class="hero">
 
-# We empower communities to stand up to violence 
+# Empowering communities to stand up to violence 
 
 Learn more
 {: .more}
@@ -43,7 +43,7 @@ Learn more
 WHAT WE DO
 {: .figcaption}
 
-# We provide self-defense training to communities in the greater Los Angeles area.
+# We teach people to transform into their strongest selves—when they need to the most.
 
 We partner with local community groups to provide high-quality self-defense and awareness workshops for community members of all ages. No prior experience is necessary—just an open mind, a humble spirit, and a willingness to learn.
 
