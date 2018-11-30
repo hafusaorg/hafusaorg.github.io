@@ -83,8 +83,6 @@ We partner with local community groups in the greater Los Angeles area to provid
 
 We offer a combination of situational training with an emphasis on practical techniques that are effective in real-life situations. Our classes are small in size (usually between 15 - 25 people), which enables us to offer a highly interactive learning experience where attendees can ask questions and join in discussions.
 
-We encourage our attendees to actively join in, contribute their own experiences, and challenge one another to ask practical questions and find real answers. We find this interactive style of group learning to be highly effective in learning not only physical responses to violence, but also learning ways to foresee potential violence and avoid it if possible.
-
 Some of the trainings we offer:
 {: .center}
 
@@ -95,6 +93,9 @@ Some of the trainings we offer:
 * ![woman learning blocking from female instructor](/uploads/classes-3.png)
   War Cry Training
 {: .blocks}
+
+We encourage our attendees to actively join in, contribute their own experiences, and challenge one another to ask practical questions and find real answers. We find this interactive style of group learning to be highly effective in learning not only physical responses to violence, but also learning ways to foresee potential violence and avoid it if possible.
+
 
 WHO WE ARE
 {: .figcaption}
