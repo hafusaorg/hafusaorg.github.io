@@ -47,7 +47,7 @@ WHAT WE DO
 
 We partner with local community groups in the greater Los Angeles area to provide high-quality self-defense and awareness workshops for community members of all ages. 
 
-Our training curriculum focuses on developing practical knowledge and self-defense skills. The caliber of our instructors enable them to tailor each lesson to meet your community's needs. No prior experience is necessary—just an open mind, a humble spirit, and a willingness to learn.
+We focus on teaching the practical knowledge and skills to defend oneself. The caliber of our instructors enable them to tailor each lesson to meet your community's needs. No prior experience is necessary—just an open mind, a humble spirit, and a willingness to learn.
 
 <section class="numbers">
 
