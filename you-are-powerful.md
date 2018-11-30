@@ -29,7 +29,9 @@ OUR CAMPAIGN
 We are proud to stand with women as they defend themselves against acts of violence.  Our campaign mission to provide all-inclusive self-defense training to one thousand women and girls. 
 </section>
 
-## We are on a mission to equip 1,000 women and girls with the necessary situational awareness and physical training to avoid violence when possible, and the ability to protect themselves and loved ones when necessary. 
+## We are on a mission to equip 1,000 women and girls with situational awareness and physical training. 
+
+We want to equip women and girls in the greater Los Angeles area to protect themselves and their loved ones by teaching them to physically defend themselves when necessary.
 
 <section class="counter">
 * 0
