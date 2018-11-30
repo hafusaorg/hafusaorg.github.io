@@ -13,18 +13,37 @@ css: |-
     background-color: transparent;
     color: var(--normal-text-color);
   }
+
+  .hero.events .blocks {
+    max-width: 1088px;
+    margin: auto;
+  }
+
   .hero.events .blocks li {
     max-width: 336px;
+    align-items: flex-start;
+    text-align: left;
+  }
+
+  .hero.events .blocks p:first-child {
+    margin: 0;
+  }
+
+  .hero.events .blocks li img {
+    max-width: initial;
   }
 
   .hero.events .blocks p {
     font-size: 12px;
+    padding-bottom: 0;
+    margin: 0 12px;
   }
 
   .hero.events .blocks h3 {
     font-weight: normal;
     line-height: 30px;
     font-size: 20px;
+    margin: 0 12px;
   }
 layout: default
 ---
