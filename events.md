@@ -52,7 +52,7 @@ layout: default
 
 # Protecting  communities by empowering individuals
 
-View our community programs
+View events
 {: .more}
 </section>
 
