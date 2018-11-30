@@ -21,8 +21,8 @@ if (firstHero) {
   };
   resizeHandler();
 
-  window.addEventListener('scroll', scrollHandler);
-  window.addEventListener('wheel', scrollHandler);
+  window.addEventListener('scroll', scrollHandler, {passive: true});
+  window.addEventListener('wheel', scrollHandler, {passive: true});
   window.addEventListener('resize', resizeHandler);
 } else {
   document.body.classList.add("fixed-main-navigation");
