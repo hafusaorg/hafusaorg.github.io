@@ -1,6 +1,5 @@
 ---
 title: You Are Powerful - Campaign
-layout: default
 show_subscribe_form: false
 css: ":root {\n  --hero-mobile-background-position: center top;\n  --hero-mobile-background-image:
   none;\n  --hero-desktop-background-position: center;\n  --hero-desktop-background-image:
@@ -16,6 +15,7 @@ css: ":root {\n  --hero-mobile-background-position: center top;\n  --hero-mobile
   img {\n    display: none;\n  }\n  .counter {\n    align-items: center;\n  }\n  .counter
   ul li {\n    width: 72px;\n    height: 120px;\n    font-size: 64px;\n    margin:
   0 4px;\n  }\n}  "
+layout: default
 ---
 
 <section class="hero you-are-powerful">
@@ -29,12 +29,7 @@ OUR CAMPAIGN
 We are proud to stand with women as they defend themselves against acts of violence.  Our campaign mission to provide all-inclusive self-defense training to one thousand women and girls. 
 </section>
 
-OUR CAMPAIGN
-{: .figcaption}
-
 ## We are on a mission to equip 1,000 women and girls with the necessary situational awareness and physical training to avoid violence when possible, and the ability to protect themselves and loved ones when necessary. 
-
-Our training session includes three aspects of self defense training. The first is situational awareness training, the best line of defense against violence- foreseeing dangerous situations and avoiding them. The second is the War Cry, to be used when danger is imminent- the best way to warn an attacker and embolden yourself to fight if necessary. The third aspect and last resort is physical training that includes striking practice, blocking practice and other lock and evasion techniques. 
 
 <section class="counter">
 * 0
@@ -44,6 +39,9 @@ Our training session includes three aspects of self defense training. The first 
 
 ## women and girls trained so far
 </section>
+
+Our training session includes three aspects of self defense training. The first is situational awareness training, the best line of defense against violence- foreseeing dangerous situations and avoiding them. The second is the War Cry, to be used when danger is imminent- the best way to warn an attacker and embolden yourself to fight if necessary. The third aspect and last resort is physical training that includes striking practice, blocking practice and other lock and evasion techniques. 
+
 
 > <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9EdwEYLN_XU?controls=0" frameborder="0" allowfullscreen></iframe>
 {: .video}
