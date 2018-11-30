@@ -45,7 +45,7 @@ WHAT WE DO
 
 # We teach people to transform into their strongest selves—when they need to the most.
 
-We partner with local community groups to provide high-quality self-defense and awareness workshops for community members of all ages. No prior experience is necessary—just an open mind, a humble spirit, and a willingness to learn.
+We partner with local community groups in the greater Los Angeles area to provide high-quality self-defense and awareness workshops for community members of all ages. No prior experience is necessary—just an open mind, a humble spirit, and a willingness to learn.
 
 <section class="numbers">
 
