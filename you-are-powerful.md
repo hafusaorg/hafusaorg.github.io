@@ -29,7 +29,7 @@ OUR CAMPAIGN
 We are proud to stand with women as they defend themselves against acts of violence.  Our campaign mission to provide all-inclusive self-defense training to one thousand women and girls. 
 </section>
 
-## We are on a mission to equip 1,000 women and girls with the situational awareness and physical training necessary to protect themselves and their loved ones when necessary.
+## We are on a mission to equip 1,000 women and girls with the situational awareness and physical training to protect themselves and their loved ones when necessary.
 
 <section class="counter">
 * 0
