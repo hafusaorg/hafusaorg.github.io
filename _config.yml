@@ -38,7 +38,7 @@ navigation:
     url: "/support"
   footer:
   - label: About Us
-    url: "#"
+    url: "/about"
     items:
     - label: What We Do
       url: "/about"
@@ -48,12 +48,12 @@ navigation:
     - label: Coming Soon
       url: "#"
   - label: Resources
-    url: "#"
+    url: "/resources"
     items:
     - label: Coming Soon
       url: "/resources"
   - label: Community Programs
-    url: "#"
+    url: "/you-are-powerful"
     items:
     - label: Campaign
       url: "/you-are-powerful"
