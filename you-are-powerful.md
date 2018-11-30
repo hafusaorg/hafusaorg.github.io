@@ -45,7 +45,7 @@ We partner with various organizations in the community to teach situational awar
 > <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9EdwEYLN_XU?controls=0" frameborder="0" allowfullscreen></iframe>
 {: .video}
 
-Our training session includes three aspects of self defense training. The first is situational awareness training—the best line of defense against violence is foreseeing dangerous situations and avoiding them. The second is the War Cry, to be used when danger is imminent- the best way to warn an attacker and embolden yourself to fight if necessary. The third aspect and last resort is physical training that includes striking practice, blocking practice and other lock and evasion techniques. 
+Our training session includes three aspects of self defense training. The first is situational awareness training—the best line of defense against violence is foreseeing dangerous situations and avoiding them. The second is the War Cry, to be used when danger is imminent- the best way to warn an attacker and embolden yourself to fight if necessary. The third aspect and last resort is physical training that includes striking practice, blocking practice and other escape and evasion techniques. 
 
 ## Want to partner with us to provide self-defense training for your community?
 {: .center}
