@@ -29,7 +29,7 @@ OUR CAMPAIGN
 We are proud to stand with women as they defend themselves against acts of violence. 
 </section>
 
-## We are on a mission to equip 1,000 women and girls with the knowledge and skills to defend themselves.
+# We are on a mission to equip 1,000 women and girls with the knowledge and skills to defend themselves.
 
 We partner with various organizations in the community to teach situational awareness and provide physical training for women and girls—so they will be equipped to protect themselves and their loved ones when necessary.
 
