@@ -2,55 +2,20 @@
 title: You Are Powerful - Campaign
 layout: default
 show_subscribe_form: false
-css: |-
-  :root {
-    --hero-mobile-background-position: center top;
-    --hero-mobile-background-image: none;
-    --hero-desktop-background-position: center;
-    --hero-desktop-background-image: url("/uploads/hero-you-are-powerful.png");
-  }
-
-  @media screen and (max-width: 1279px) {
-    .hero:first-child {
-      background-color: #C75300;
-      background-image: var(--hero-mobile-background-image);
-      background-position: var(--hero-mobile-background-position);
-      background-size: contain;
-    }
-    .hero:first-child img {
-      width: 100%;
-      padding-top: 152px;
-    }
-  }
-  @media screen and (min-width: 1280px) {
-    #main-navigation>section>ul>li:last-child>a {
-      background-color: #FFFFFF;
-      color: #412CCE;
-    }
-    .hero:first-child {
-      padding-left: 96px;
-      padding-right: 96px;
-      justify-content: center;
-      height: 800px;
-      background-color: transparent;
-    }
-    .hero:first-child h1,
-    .hero:first-child p {
-      margin-left: calc(50% + 20px);
-    }
-    .hero:first-child img {
-      display: none;
-    }
-    .counter {
-      align-items: center;
-    }
-    .counter ul li {
-      width: 72px;
-      height: 120px;
-      font-size: 64px;
-      margin: 0 4px;
-    }
-  }  
+css: ":root {\n  --hero-mobile-background-position: center top;\n  --hero-mobile-background-image:
+  none;\n  --hero-desktop-background-position: center;\n  --hero-desktop-background-image:
+  url(\"/uploads/hero-you-are-powerful.png\");\n}\n\n@media screen and (max-width:
+  1279px) {\n  .hero:first-child {\n    background-color: #C75300;\n    background-image:
+  var(--hero-mobile-background-image);\n    background-position: var(--hero-mobile-background-position);\n
+  \   background-size: contain;\n  }\n  .hero:first-child img {\n    width: 100%;\n
+  \   padding-top: 152px;\n  }\n}\n@media screen and (min-width: 1280px) {\n  #main-navigation>section>ul>li:last-child>a
+  {\n    background-color: #FFFFFF;\n    color: #412CCE;\n  }\n  .hero:first-child
+  {\n    padding-left: 96px;\n    padding-right: 96px;\n    justify-content: center;\n
+  \   height: 800px;\n    background-color: transparent;\n  }\n  .hero:first-child
+  h1,\n  .hero:first-child p {\n    margin-left: calc(50% + 20px);\n  }\n  .hero:first-child
+  img {\n    display: none;\n  }\n  .counter {\n    align-items: center;\n  }\n  .counter
+  ul li {\n    width: 72px;\n    height: 120px;\n    font-size: 64px;\n    margin:
+  0 4px;\n  }\n}  "
 ---
 
 <section class="hero you-are-powerful">
