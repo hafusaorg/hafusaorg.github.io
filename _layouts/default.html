@@ -68,6 +68,15 @@
         {% endfor %}
       </ul>
     </section>
+    <section class="navigation-call-to-action">
+      <ul>
+        <li>
+          <a href="{{ page.navigation.call_to_action.url | default: site.navigation.call_to_action.url }}">
+            {{ page.navigation.call_to_action.label | default: site.navigation.call_to_action.label }}
+          </a>
+        </li>
+      </ul>
+    </section>
   </nav>
   <main>
     <article>

@@ -9,7 +9,7 @@
   --hero-more-padding-bottom: 24px;
   --hero-h1-font-size: 38px;
   --hero-h1-text-align: center;
-  --hero-padding-bottom: 40px;
+  --hero-padding-bottom: 16px;
   --subscribe-max-width: 100%;
   --subscribe-flex-direction: column;
   --subscribe-input-margin: 0;
@@ -32,7 +32,7 @@
     --hero-more-padding-bottom: 24px;
     --hero-h1-font-size: 47px;
     --hero-h1-text-align: left;
-    --hero-padding-bottom: 80px;
+    --hero-padding-bottom: 40px;
     --subscribe-max-width: 324px;
     --footer-margin: 80px 0 39px;
     --footer-copyright: 16px;
@@ -54,7 +54,7 @@
     --hero-more-padding-bottom: 24px;
     --hero-h1-font-size: 76px;
     --hero-h1-text-align: left;
-    --hero-padding-bottom: 80px;
+    --hero-padding-bottom: 40px;
     --subscribe-flex-direction: row;
     --subscribe-input-margin: 0 80px;
     --subscribe-padding: 54px 96px;
@@ -117,9 +117,17 @@ main>article {
 
 .hero .more {
   align-self: center;
+  font-size: 14px;
   background-image: url("/uploads/arrow-down.svg");
   background-repeat: no-repeat;
   background-position: center bottom;
+  margin-top: 24px;
+}
+
+@media screen and (min-width: 1280px) {
+  .hero .more {
+    margin-top: 128px;
+  }
 }
 
 .hero:first-child {
@@ -131,6 +139,7 @@ main>article {
 
 .hero:first-child h1 {
   font-size: var(--h1-font-size);
+  text-align: var(--h1-text-align, left);
 }
 
 @media screen and (min-width: 768px) {

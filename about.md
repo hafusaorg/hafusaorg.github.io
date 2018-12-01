@@ -9,6 +9,12 @@ css: |-
     --hero-desktop-background-image: url("/uploads/hero-about.png");
   }
 
+  @media screen and (min-width: 1280px) {
+    :root {
+      --h1-text-align: center;
+    }
+  }
+
   .blocks.team img {
     max-width: 336px;
   }

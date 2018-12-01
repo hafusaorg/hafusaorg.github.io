@@ -74,6 +74,10 @@ p {
   padding: 0 0 var(--p-padding-bottom);
 }
 
+p.half-padding {
+  padding-bottom: calc(var(--p-padding-bottom) / 2);
+}
+
 figure {
   margin: 0;
 }
@@ -127,6 +131,7 @@ ul.blocks li img, blockquote ul li img {
   width: 200px;
   height: 48px;
   background-color: #412CCE;
+  margin-top: 16px;
 }
 
 blockquote {

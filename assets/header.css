@@ -1,6 +1,7 @@
 :root {
   --corner-display: block;
-  --margin: 32px;
+  --top-margin: 32px;
+  --left-margin: var(--standard-margin);
   --logo-width: 80px;
   --logo-width-small: 48px;
   --logo-align-self: none;
@@ -13,7 +14,8 @@
 
 @media screen and (min-width: 768px) and (max-width: 1279px) {
   :root {
-    --margin: 32px;
+    --top-margin: 32px;
+    --left-margin: 32px;
     --logo-width: 80px;
     --main-navigation-width: 304px;
     --show-main-navigation-filter: none;
@@ -25,7 +27,8 @@
 @media screen and (min-width: 1280px) {
   :root {
     --corner-display: none;
-    --margin: 32px;
+    --top-margin: 32px;
+    --left-margin: 32px;
     --logo-width: 112px;
     --logo-align-self: flex-start;
     --main-navigation-width: 100%;
@@ -41,8 +44,8 @@
   top: 0;
   left: 0;
   width: 100%;
-  height: calc(var(--margin) + var(--logo-width) + var(--margin));
-  padding: var(--margin);
+  height: calc(var(--top-margin) + var(--logo-width) + var(--top-margin));
+  padding: var(--top-margin) var(--left-margin);
   display: flex;
   align-items: center;
   flex-direction: column;
@@ -64,8 +67,8 @@
 #main-navigation .corner {
   display: var(--corner-display);
   position: fixed;
-  top: var(--margin);
-  left: var(--margin);
+  top: var(--top-margin);
+  left: var(--left-margin);
   width: 44px;
   height: 44px;
   border: 0;
@@ -103,21 +106,30 @@
     top: 0;
     left: 0;
     width: 100%;
-    height: calc(var(--margin) + var(--logo-width) + var(--margin));
+    height: calc(var(--top-margin) + var(--logo-width) + var(--top-margin));
   }
 }
 
 #main-navigation section {
-  position: absolute;
-  top: 0;
   display: var(--main-navigation-section-display);
 }
 
 .show-main-navigation #main-navigation section {
   display: flex;
-  position: absolute;
-  top: calc(var(--margin) + var(--logo-width) + var(--margin) + 40px);
+  flex-direction: column;
+  /* margin-top: calc(var(--top-margin) + var(--logo-width) + var(--top-margin) + 40px); */
+  margin-top: 40px;
   width: 100%;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1279px) {
+  .show-main-navigation #main-navigation section {
+    margin-top: calc(var(--logo-width) + var(--top-margin) + 40px);
+  }
+}
+
+.show-main-navigation #main-navigation section.navigation-call-to-action {
+  margin-top: 0;
 }
 
 .show-main-navigation {
@@ -132,7 +144,7 @@
   display: flex;
   flex-direction: column;
   margin: 0;
-  padding: 0 0 0 48px;
+  padding: 0 0 0 calc(48px - var(--left-margin));
   list-style: none;
 }
 
@@ -157,7 +169,7 @@
   width: fit-content;
 }
 
-#main-navigation>section>ul>li:last-child>a {
+#main-navigation .navigation-call-to-action a {
   color: #E96824;
 }
 
@@ -175,6 +187,7 @@
     background-size: var(--logo-width-small) var(--logo-width-small);
   }
   #main-navigation section {
+    position: absolute;
     top: 32px;
   }
   .fixed-main-navigation #main-navigation section {
@@ -234,12 +247,17 @@
     margin-top: -8px;
     padding-top: 8px;
   }
-  #main-navigation>section>ul>li:last-child>a {
+  #main-navigation .navigation-call-to-action {
+    position: absolute;
+    top: 32px;
+    right: 12px;
+  }
+  #main-navigation .navigation-call-to-action a {
     background-color: #E96824;
     color: #FFFFFF;
     padding: 0 10px;
   }
-  #main-navigation>section>ul>li:last-child:hover {
+  #main-navigation .navigation-call-to-action:hover {
     border-color: transparent;
   }
 }

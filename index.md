@@ -14,17 +14,20 @@ css: |
     --support-hero-background-position: center;
     --support-hero-background-image: url("/uploads/hero-support-dark.png");
     --hero-h1-text-align: left;
+    --hero-you-are-powerful-width: 288px;
   }
   @media screen and (min-width: 768px) and (max-width: 1279px) {
     :root {
       --organization-width: 117px;
       --hero-h1-text-align: center;
+      --hero-you-are-powerful-width: 263px;
     }
   }
   @media screen and (min-width: 1280px) {
     :root {
       --organization-width: 148px;
       --hero-h1-text-align: left;
+      --hero-you-are-powerful-width: 430px;
     }
   }
 
@@ -57,15 +60,25 @@ css: |
     padding-left: var(--horizontal-min-margin);
     padding-right: var(--horizontal-min-margin);
   }
+  @media screen and (min-width: 768px) {
+    .hero.you-are-powerful h1 {
+      text-align: left;
+    }
+  }
 
   .hero.you-are-powerful img {
-    min-width: 288px;
-    max-width: 100%;
+    width: var(--hero-you-are-powerful-width);
   }
 
   .hero.support {
     background-image: var(--support-hero-background-image);
     background-position: var(--support-hero-background-position);
+  }
+
+  @media screen and (min-width: 1280px) {
+    .hero.support h1 {
+      text-align: center;
+    }
   }
 
   .hero.support .call-to-action {
@@ -103,7 +116,7 @@ Organizations we have partnered with to offer self-defense training:
 {: .video}
 
 Follow us to hear of our upcoming events!
-{: .center}
+{: .center.half-padding}
 
 * [![Youtube](/uploads/icon-youtube.svg)](https://go.hafusa.org/youtube-hafusaorg)
 * [![Instagram](/uploads/icon-instagram.svg)](https://www.instagram.com/hafusaorg)
@@ -118,6 +131,7 @@ OUR CAMPAIGN
 <section class="columns">
 <figure>
 !["You Are Powerful" painting of female Aikidoist in impressionist style](/uploads/you-are-powerful-art.png)
+{: .center}
 </figure>
 <section>
 # You Are Powerful
@@ -181,7 +195,7 @@ Your generosity keeps us going.
 
 We partner with local organizations in providing self-defense workshop to communities. Our goal is to increase our participants’ situational awareness and give them the ability to react safely in response to dangerous situations—or to prevent them from occurring in the first place. No previous training is necessary, just a willingness to learn.
 
-[View community events](/community-events)
+[View community events](/events)
 
 > <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9EdwEYLN_XU?controls=0" frameborder="0" allowfullscreen></iframe>
 {: .video}

@@ -20,6 +20,9 @@ subscribe_form:
 contact:
   email: info@hafusa.org
 navigation:
+  call_to_action:
+    label: DONATE TO US
+    url: "/support"
   main:
   - label: About
     url: "/about"
@@ -34,8 +37,6 @@ navigation:
       url: "/events"
   - label: Contact
     url: "/contact"
-  - label: DONATE TO US
-    url: "/support"
   footer:
   - label: About Us
     url: "/about"
