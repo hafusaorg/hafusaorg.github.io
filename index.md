@@ -88,7 +88,7 @@ layout: default
 ---
 
 <section class="hero">
-# Transform into your strongest self—when you need to the most
+# Transform into your strongest self
 
 We provide self-defense training to communities in the greater Los Angeles area.
 
