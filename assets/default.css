@@ -139,7 +139,7 @@ main>article {
 
 .hero:first-child h1 {
   font-size: var(--h1-font-size);
-  text-align: var(--h1-text-align, center);
+  text-align: var(--hero-h1-text-align, center);
 }
 
 @media screen and (min-width: 768px) {
