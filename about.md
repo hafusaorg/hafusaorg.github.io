@@ -97,7 +97,7 @@ Some of the trainings we offer:
 * ![female instructor teaching girl](/uploads/classes-2.png)
   Escape and evasion techniques
 * ![woman learning blocking from female instructor](/uploads/classes-3.png)
-  War Cry Training
+  War cry training
 {: .blocks}
 
 We encourage our attendees to actively join in, contribute their own experiences, and challenge one another to ask practical questions and find real answers. We find this interactive style of group learning to be highly effective in learning not only physical responses to violence, but also learning ways to foresee potential violence and avoid it if possible.
