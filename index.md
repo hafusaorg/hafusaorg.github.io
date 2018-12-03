@@ -167,7 +167,7 @@ Some of the trainings we offer
 * ![female instructor teaching girl](/uploads/classes-2.png)
   Escape and evasion techniques
 * ![woman learning blocking from female instructor](/uploads/classes-3.png)
-  War Cry Training
+  War cry training
 {: .blocks}
 
 ## Want to partner with us to provide self-defense training for your community?
