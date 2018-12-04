@@ -7,6 +7,7 @@ css: |-
     --hero-mobile-background-image: url("/uploads/hero-about-mobile.png");
     --hero-desktop-background-position: center;
     --hero-desktop-background-image: url("/uploads/hero-about.png");
+    --hero-h1-text-align: center;
   }
 
   @media screen and (min-width: 1280px) {

@@ -43,7 +43,7 @@ css: |
       margin: var(--counter-margin);
   }
   @media screen and (min-width: 1280px) {
-      #main-navigation>section>ul>li:last-child>a {
+      #main-navigation .navigation-call-to-action a {
           background-color: #FFFFFF;
           color: #412CCE;
       }
