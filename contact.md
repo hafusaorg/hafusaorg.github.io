@@ -1,5 +1,8 @@
 ---
-title: Contact
+title: Contact Us
+social:
+  image: "/uploads/social-contact.png"
+  description: Get in touch with us!
 layout: default
 show_subscribe_form: false
 css: |-

@@ -1,5 +1,8 @@
 ---
-title: Community Events
+title: Protecting communities by empowering individuals
+social:
+  image: "/uploads/social-events.png"
+  description: Protecting communities by empowering individuals
 show_subscribe_form: false
 css: |-
   :root {
@@ -50,7 +53,7 @@ layout: default
 
 <section class="hero">
 
-# Protecting  communities by empowering individuals
+# Protecting communities by empowering individuals
 
 View events
 {: .more}

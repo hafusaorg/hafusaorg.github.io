@@ -1,5 +1,8 @@
 ---
-title: About
+title: Empowering communities to stand up to violence
+social:
+  image: "/uploads/social-about.png"
+  description: Empowering communities to stand up to violence – We partner with local community groups in the greater Los Angeles area to provide practical self-defense and awareness training for community members of all ages.
 show_subscribe_form: true
 css: |-
   :root {
