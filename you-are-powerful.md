@@ -2,7 +2,8 @@
 title: You Are Powerful
 social:
   image: "/uploads/social-you-are-powerful.png"
-  description: You Are Powerful – We are on a mission to equip 1,000 women and girls with the knowledge and skills to defend themselves.
+  description: You Are Powerful – We are on a mission to equip 1,000 women and girls
+    with the knowledge and skills to defend themselves.
 show_subscribe_form: false
 css: |
   :root {

@@ -2,7 +2,8 @@
 title: Teaching people to transform into their strongest selves
 social:
   image: "/uploads/social-landing.png"
-  description: Teaching people to transform into their strongest selves – We provide self-defense training to communities in the greater Los Angeles area.
+  description: Teaching people to transform into their strongest selves – We provide
+    self-defense training to communities in the greater Los Angeles area.
 show_subscribe_form: true
 css: |
   :root {

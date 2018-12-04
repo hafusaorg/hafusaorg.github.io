@@ -2,7 +2,8 @@
 title: Your support is meaningful
 social:
   image: "/uploads/social-support.png"
-  description: Your support is meaningful – Help us to continue our work in meeting the need for high-quality self-defense training for local communities.
+  description: Your support is meaningful – Help us to continue our work in meeting
+    the need for high-quality self-defense training for local communities.
 layout: default
 show_subscribe_form: true
 css: |-
