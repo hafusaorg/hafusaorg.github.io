@@ -137,7 +137,7 @@ WHO WE ARE
   > ART DIRECTOR
 * ![Rachel Atmadja](/uploads/team-rachel.png)
   Rachel Atmadja
-  > DIGITAL STRATEGIST
+  > DESIGN STRATEGIST
 {: .blocks.team}
 
 ## Want to partner with us to provide self-defense training for your community?
