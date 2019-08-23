@@ -76,26 +76,27 @@ OUR CAMPAIGN
 
 # You Are Powerful
 
-We are proud to stand with women as they defend themselves against acts of violence. 
+We are proud to stand with women as they defend themselves against acts of violence. Our campaign mission is to provide all-inclusive self-defense training to one thousand women and girls.
 </section>
 
-# We are on a mission to equip 1,000 women and girls with the knowledge and skills to defend themselves.
+OUR CAMPAIGN
+{: .figcaption}
 
-We partner with various organizations in the community to teach situational awareness and provide physical training for women and girls—so they will be equipped to protect themselves and their loved ones when necessary.
+# We are on a mission to equip 1,000 women and girls with the necessary situational awareness and physical training to avoid violence when possible, and the ability to protect themselves and loved ones when necessary. 
+
+Our training session includes three aspects of self defense training. The first is situational awareness training, the best line of defense against violence- foreseeing dangerous situations and avoiding them. The second is the War Cry, to be used when danger is imminent–the best way to warn an attacker and embolden yourself to fight if necessary. The third aspect and last resort is physical training that includes striking practice, blocking practice and other lock and evasion techniques.
 
 <section class="counter">
 * 0
 * 4
-* 2
-* 0
+* 8
+* 9
 
 ## women and girls trained so far
 </section>
 
 > <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/9EdwEYLN_XU?controls=0" frameborder="0" allowfullscreen></iframe>
 {: .video}
-
-Our training session includes three aspects of self defense training. The first is situational awareness training—the best line of defense against violence is foreseeing dangerous situations and avoiding them. The second is the War Cry, to be used when danger is imminent- the best way to warn an attacker and embolden yourself to fight if necessary. The third aspect and last resort is physical training that includes striking practice, blocking practice and other escape and evasion techniques. 
 
 ## Want to partner with us to provide self-defense training for your community?
 {: .center}
