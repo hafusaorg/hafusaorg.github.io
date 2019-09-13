@@ -117,7 +117,7 @@ THE BOTTOM LINE: WHAT WILL YOUR GIRL SCOUTS WALK AWAY WITH?
 Hear from Jen, a Girl Scout Leader who has participated in our training:
 {: .center}
 
-> <iframe width="560" height="315" src="https://www.youtube.com/embed/RHD-l82vR5k" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+> <iframe width="560" height="315" src="https://www.youtube.com/embed/A2H795kFn1E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {: .video}
 
 <section class="hero social-proof no-padding">
