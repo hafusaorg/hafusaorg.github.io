@@ -67,7 +67,7 @@ We partner with local community groups in the greater Los Angeles area to provid
   Training events held
   {: .caption}
 
-* 420
+* 489
   {: .figure}
 
   People trained

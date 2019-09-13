@@ -44,7 +44,7 @@ SUPPORT US
   Training events held
   {: .caption}
 
-* 420
+* 489
   {: .figure}
 
   People trained
