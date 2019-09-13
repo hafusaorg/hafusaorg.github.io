@@ -35,28 +35,23 @@ navigation:
       url: "/you-are-powerful"
     - label: Community Events
       url: "/events"
+    - label: Girl Scouts
+      url: "/girl-scouts"
   - label: Contact
     url: "/contact"
   footer:
-  - label: About Us
+  - label: About
     url: "/about"
-    items:
-    - label: What We Do
-      url: "/about"
-  - label: Classes
-    url: "#"
-    items:
-    - label: Coming Soon
-      url: "#"
   - label: Resources
     url: "/resources"
-    items:
-    - label: Coming Soon
-      url: "/resources"
-  - label: Community Programs
-    url: "/you-are-powerful"
+  - label: Community<br>Programs
+    url: "#"
     items:
     - label: Campaign
       url: "/you-are-powerful"
     - label: Community Events
       url: "/events"
+    - label: Girl Scouts
+      url: "/girl-scouts"
+  - label: Contact
+    url: "/contact"

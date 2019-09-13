@@ -24,7 +24,7 @@ css: |
       --counter-margin: 0 4px;
     }
   }
-  @media screen and (max-width: 1279px) {
+  @media screen and (max-width: 1023px) {
       .hero:first-child {
           background-color: #C75300;
           background-image: var(--hero-mobile-background-image);
@@ -46,7 +46,7 @@ css: |
       font-size: var(--counter-font-size);
       margin: var(--counter-margin);
   }
-  @media screen and (min-width: 1280px) {
+  @media screen and (min-width: 1024px) {
       #main-navigation .navigation-call-to-action a {
           background-color: #FFFFFF;
           color: #412CCE;

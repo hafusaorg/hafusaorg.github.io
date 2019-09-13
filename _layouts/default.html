@@ -49,6 +49,11 @@
     </a>
     <section>
       <ul>
+        <li class="home">
+          <a href="/">
+            Home
+          </a>
+        </li>
         {% for item in site.navigation.main %}
           <li class="{% if item.items %}dropdown{% endif %}">
             <a href="{{ item.url }}">

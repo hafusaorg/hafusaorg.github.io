@@ -82,10 +82,23 @@ figure {
   margin: 0;
 }
 
-.figcaption {
+figure p {
+  font-size: var(--figcaption-font-size);
+  padding: 0;
+}
+
+figure img {
+  width: 100%;
+}
+
+figcaption, .figcaption {
   font-size: var(--figcaption-font-size);
   margin: 0;
   padding: var(--figcaption-padding-bottom) 0;
+}
+
+figure figcaption {
+  padding: 0 0 var(--p-padding-bottom);
 }
 
 .center {
